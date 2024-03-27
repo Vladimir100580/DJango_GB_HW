@@ -1,0 +1,198 @@
+INFO 2024-03-27 11:23:22,824 autoreload 13356 9128 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\apps.py changed, reloading.
+INFO 2024-03-27 11:23:25,244 autoreload 1832 1892 Watching for file changes with StatReloader
+INFO 2024-03-27 11:24:26,866 autoreload 15956 7836 Watching for file changes with StatReloader
+INFO 2024-03-27 11:27:17,419 basehttp 15956 4532 "GET / HTTP/1.1" 200 13
+INFO 2024-03-27 11:32:05,831 autoreload 15956 7836 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\urls.py changed, reloading.
+INFO 2024-03-27 11:32:06,521 autoreload 15392 11828 Watching for file changes with StatReloader
+INFO 2024-03-27 11:34:16,162 autoreload 15392 11828 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 11:34:16,796 autoreload 8716 320 Watching for file changes with StatReloader
+INFO 2024-03-27 11:57:04,097 basehttp 8716 11660 "GET / HTTP/1.1" 200 13
+INFO 2024-03-27 11:57:04,608 autoreload 8716 320 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 11:57:05,260 autoreload 7812 4520 Watching for file changes with StatReloader
+INFO 2024-03-27 11:57:06,267 basehttp 7812 16288 "GET / HTTP/1.1" 200 13
+INFO 2024-03-27 11:57:07,689 basehttp 7812 16288 "GET / HTTP/1.1" 200 13
+INFO 2024-03-27 11:57:28,103 autoreload 7812 4520 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 11:57:28,826 autoreload 14756 11688 Watching for file changes with StatReloader
+INFO 2024-03-27 11:57:29,120 basehttp 14756 7004 "GET / HTTP/1.1" 200 1878
+INFO 2024-03-27 11:57:53,774 autoreload 14756 11688 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 11:57:54,538 autoreload 5632 7676 Watching for file changes with StatReloader
+INFO 2024-03-27 12:00:25,559 autoreload 5632 7676 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:00:26,248 autoreload 12128 14040 Watching for file changes with StatReloader
+INFO 2024-03-27 12:00:26,536 basehttp 12128 8496 "GET / HTTP/1.1" 200 1935
+INFO 2024-03-27 12:00:49,129 autoreload 12128 14040 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:00:49,778 autoreload 7824 3588 Watching for file changes with StatReloader
+INFO 2024-03-27 12:00:49,938 basehttp 7824 4424 "GET / HTTP/1.1" 200 1941
+INFO 2024-03-27 12:01:03,451 autoreload 7824 3588 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:01:04,140 autoreload 16132 14124 Watching for file changes with StatReloader
+INFO 2024-03-27 12:01:04,324 basehttp 16132 15052 "GET / HTTP/1.1" 200 1940
+INFO 2024-03-27 12:02:02,898 autoreload 16132 14124 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:02:03,542 autoreload 5124 14768 Watching for file changes with StatReloader
+INFO 2024-03-27 12:03:26,724 autoreload 5124 14768 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:03:27,504 autoreload 2864 15012 Watching for file changes with StatReloader
+INFO 2024-03-27 12:03:29,578 basehttp 2864 14652 "GET / HTTP/1.1" 200 1975
+INFO 2024-03-27 12:05:46,249 autoreload 2864 15012 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:05:46,963 autoreload 15388 12748 Watching for file changes with StatReloader
+INFO 2024-03-27 12:06:43,626 autoreload 15388 12748 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:06:44,511 autoreload 5864 13888 Watching for file changes with StatReloader
+INFO 2024-03-27 12:09:35,455 basehttp 5864 1688 "GET / HTTP/1.1" 200 2058
+INFO 2024-03-27 12:09:36,109 autoreload 5864 13888 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:09:36,843 autoreload 2604 3360 Watching for file changes with StatReloader
+INFO 2024-03-27 12:09:49,482 autoreload 2604 3360 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:09:50,227 autoreload 1560 15688 Watching for file changes with StatReloader
+INFO 2024-03-27 12:09:50,519 basehttp 1560 1436 "GET / HTTP/1.1" 200 2212
+INFO 2024-03-27 12:11:25,781 autoreload 1560 15688 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:11:26,539 autoreload 15884 10044 Watching for file changes with StatReloader
+INFO 2024-03-27 12:12:09,901 autoreload 15884 10044 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:12:10,603 autoreload 15168 4140 Watching for file changes with StatReloader
+INFO 2024-03-27 12:12:47,875 autoreload 15168 4140 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:12:48,516 autoreload 10848 7228 Watching for file changes with StatReloader
+INFO 2024-03-27 12:13:19,544 autoreload 10848 7228 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:13:20,237 autoreload 9396 16348 Watching for file changes with StatReloader
+INFO 2024-03-27 12:15:20,588 autoreload 9396 16348 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:15:21,479 autoreload 3900 8336 Watching for file changes with StatReloader
+INFO 2024-03-27 12:15:25,718 basehttp 3900 10848 "GET / HTTP/1.1" 200 2410
+INFO 2024-03-27 12:17:03,536 autoreload 3900 8336 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:17:04,338 autoreload 1452 15696 Watching for file changes with StatReloader
+INFO 2024-03-27 12:17:10,216 basehttp 1452 14580 "GET / HTTP/1.1" 200 2421
+INFO 2024-03-27 12:17:11,638 basehttp 1452 14580 "GET / HTTP/1.1" 200 2421
+INFO 2024-03-27 12:17:13,163 basehttp 1452 14580 "GET / HTTP/1.1" 200 2421
+INFO 2024-03-27 12:17:13,571 basehttp 1452 14580 "GET / HTTP/1.1" 200 2421
+INFO 2024-03-27 12:17:13,989 basehttp 1452 14580 "GET / HTTP/1.1" 200 2421
+INFO 2024-03-27 12:17:29,362 autoreload 1452 15696 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:17:30,139 autoreload 13616 12724 Watching for file changes with StatReloader
+INFO 2024-03-27 12:17:30,614 basehttp 13616 8104 "GET / HTTP/1.1" 200 2421
+INFO 2024-03-27 12:17:58,112 autoreload 13616 12724 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:17:58,763 autoreload 8600 14500 Watching for file changes with StatReloader
+INFO 2024-03-27 12:17:58,953 basehttp 8600 2044 "GET / HTTP/1.1" 200 2423
+INFO 2024-03-27 12:18:37,050 autoreload 8600 14500 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:18:37,791 autoreload 8336 3096 Watching for file changes with StatReloader
+INFO 2024-03-27 12:18:39,668 basehttp 8336 8104 "GET / HTTP/1.1" 200 2423
+INFO 2024-03-27 12:20:33,325 autoreload 8336 3096 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:20:34,110 autoreload 7824 16288 Watching for file changes with StatReloader
+INFO 2024-03-27 12:21:27,781 autoreload 7824 16288 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:21:28,558 autoreload 4560 7656 Watching for file changes with StatReloader
+INFO 2024-03-27 12:21:30,575 basehttp 4560 15052 "GET / HTTP/1.1" 200 2552
+INFO 2024-03-27 12:22:13,104 autoreload 4560 7656 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:22:13,784 autoreload 264 11808 Watching for file changes with StatReloader
+INFO 2024-03-27 12:22:13,995 basehttp 264 9572 "GET / HTTP/1.1" 200 2558
+INFO 2024-03-27 12:25:33,131 autoreload 264 11808 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:25:33,775 autoreload 4044 11932 Watching for file changes with StatReloader
+INFO 2024-03-27 12:25:34,103 basehttp 4044 4072 "GET / HTTP/1.1" 200 2720
+INFO 2024-03-27 12:26:25,320 autoreload 4044 11932 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:26:26,049 autoreload 14776 13272 Watching for file changes with StatReloader
+INFO 2024-03-27 12:26:27,583 basehttp 14776 5180 "GET / HTTP/1.1" 200 2723
+INFO 2024-03-27 12:28:48,978 autoreload 14776 13272 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:28:49,697 autoreload 9944 15584 Watching for file changes with StatReloader
+INFO 2024-03-27 12:35:30,006 autoreload 9944 15584 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:35:30,707 autoreload 14648 6408 Watching for file changes with StatReloader
+INFO 2024-03-27 12:35:31,423 basehttp 14648 5340 "GET / HTTP/1.1" 200 2828
+WARNING 2024-03-27 12:35:31,545 log 14648 5340 Not Found: /favicon.ico
+WARNING 2024-03-27 12:35:31,545 basehttp 14648 5340 "GET /favicon.ico HTTP/1.1" 404 2427
+INFO 2024-03-27 12:36:45,986 autoreload 14648 6408 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:36:46,734 autoreload 14848 6540 Watching for file changes with StatReloader
+INFO 2024-03-27 12:36:49,530 basehttp 14848 15428 "GET / HTTP/1.1" 200 2797
+WARNING 2024-03-27 12:36:49,564 log 14848 15428 Not Found: /favicon.ico
+WARNING 2024-03-27 12:36:49,565 basehttp 14848 15428 "GET /favicon.ico HTTP/1.1" 404 2427
+INFO 2024-03-27 12:36:50,533 basehttp 14848 15428 "GET / HTTP/1.1" 200 2797
+WARNING 2024-03-27 12:36:50,569 log 14848 15428 Not Found: /favicon.ico
+WARNING 2024-03-27 12:36:50,569 basehttp 14848 15428 "GET /favicon.ico HTTP/1.1" 404 2427
+INFO 2024-03-27 12:36:50,690 basehttp 14848 15428 "GET / HTTP/1.1" 200 2797
+WARNING 2024-03-27 12:36:50,722 log 14848 15428 Not Found: /favicon.ico
+WARNING 2024-03-27 12:36:50,722 basehttp 14848 15428 "GET /favicon.ico HTTP/1.1" 404 2427
+INFO 2024-03-27 12:36:50,850 basehttp 14848 15428 "GET / HTTP/1.1" 200 2797
+WARNING 2024-03-27 12:36:50,888 log 14848 15428 Not Found: /favicon.ico
+WARNING 2024-03-27 12:36:50,888 basehttp 14848 15428 "GET /favicon.ico HTTP/1.1" 404 2427
+INFO 2024-03-27 12:36:51,004 basehttp 14848 15428 "GET / HTTP/1.1" 200 2797
+WARNING 2024-03-27 12:36:51,040 log 14848 15428 Not Found: /favicon.ico
+WARNING 2024-03-27 12:36:51,041 basehttp 14848 15428 "GET /favicon.ico HTTP/1.1" 404 2427
+INFO 2024-03-27 12:36:51,148 basehttp 14848 15428 "GET / HTTP/1.1" 200 2797
+WARNING 2024-03-27 12:36:51,184 log 14848 15428 Not Found: /favicon.ico
+WARNING 2024-03-27 12:36:51,184 basehttp 14848 15428 "GET /favicon.ico HTTP/1.1" 404 2427
+INFO 2024-03-27 12:37:53,839 autoreload 14848 6540 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:37:54,604 autoreload 4140 14648 Watching for file changes with StatReloader
+INFO 2024-03-27 12:37:58,252 basehttp 4140 5800 "GET / HTTP/1.1" 200 2814
+WARNING 2024-03-27 12:37:58,284 log 4140 5800 Not Found: /favicon.ico
+WARNING 2024-03-27 12:37:58,284 basehttp 4140 5800 "GET /favicon.ico HTTP/1.1" 404 2427
+INFO 2024-03-27 12:38:12,471 autoreload 4140 14648 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:38:13,263 autoreload 14120 6408 Watching for file changes with StatReloader
+INFO 2024-03-27 12:38:14,402 basehttp 14120 14728 "GET / HTTP/1.1" 200 2814
+WARNING 2024-03-27 12:38:14,433 log 14120 14728 Not Found: /favicon.ico
+WARNING 2024-03-27 12:38:14,433 basehttp 14120 14728 "GET /favicon.ico HTTP/1.1" 404 2427
+INFO 2024-03-27 12:40:05,490 autoreload 14120 6408 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:40:06,094 autoreload 16576 16580 Watching for file changes with StatReloader
+INFO 2024-03-27 12:40:06,350 basehttp 16576 6860 "GET / HTTP/1.1" 200 2817
+INFO 2024-03-27 12:40:41,292 autoreload 16576 16580 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:40:42,011 autoreload 16720 6500 Watching for file changes with StatReloader
+INFO 2024-03-27 12:40:42,327 basehttp 16720 8256 "GET / HTTP/1.1" 200 2823
+INFO 2024-03-27 12:41:29,490 autoreload 16720 6500 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:41:30,167 autoreload 14756 14840 Watching for file changes with StatReloader
+INFO 2024-03-27 12:41:30,395 basehttp 14756 13272 "GET / HTTP/1.1" 200 2823
+INFO 2024-03-27 12:43:41,720 autoreload 14756 14840 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:43:42,427 autoreload 7868 16388 Watching for file changes with StatReloader
+INFO 2024-03-27 12:45:47,915 autoreload 7868 16388 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:45:48,601 autoreload 4460 16692 Watching for file changes with StatReloader
+INFO 2024-03-27 12:47:44,862 autoreload 4460 16692 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:47:45,587 autoreload 3096 13660 Watching for file changes with StatReloader
+INFO 2024-03-27 12:47:47,546 basehttp 3096 16628 "GET / HTTP/1.1" 200 2921
+INFO 2024-03-27 12:48:50,767 autoreload 3096 13660 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:48:51,543 autoreload 16640 8972 Watching for file changes with StatReloader
+INFO 2024-03-27 12:48:51,774 basehttp 16640 4808 "GET / HTTP/1.1" 200 2974
+INFO 2024-03-27 12:50:06,800 autoreload 16640 8972 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 12:50:07,548 autoreload 15076 12904 Watching for file changes with StatReloader
+INFO 2024-03-27 13:09:43,577 autoreload 15076 12904 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:09:44,366 autoreload 3016 17020 Watching for file changes with StatReloader
+INFO 2024-03-27 13:10:30,936 autoreload 3016 17020 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:10:31,556 autoreload 1360 15708 Watching for file changes with StatReloader
+INFO 2024-03-27 13:12:58,471 autoreload 1360 15708 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:12:59,173 autoreload 11092 328 Watching for file changes with StatReloader
+INFO 2024-03-27 13:14:33,832 autoreload 11092 328 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:14:34,479 autoreload 6300 4400 Watching for file changes with StatReloader
+INFO 2024-03-27 13:16:34,891 autoreload 6300 4400 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:16:35,663 autoreload 16600 3532 Watching for file changes with StatReloader
+INFO 2024-03-27 13:18:24,625 autoreload 16600 3532 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:18:25,382 autoreload 17024 4092 Watching for file changes with StatReloader
+INFO 2024-03-27 13:18:56,023 basehttp 17024 16848 "GET / HTTP/1.1" 200 2974
+INFO 2024-03-27 13:18:56,580 autoreload 17024 4092 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:18:57,253 autoreload 8532 15060 Watching for file changes with StatReloader
+INFO 2024-03-27 13:19:05,591 basehttp 8532 952 "GET /about HTTP/1.1" 301 0
+INFO 2024-03-27 13:19:05,595 basehttp 8532 8940 "GET /about/ HTTP/1.1" 200 30
+INFO 2024-03-27 13:20:01,348 autoreload 8532 15060 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:20:02,071 autoreload 16772 5996 Watching for file changes with StatReloader
+INFO 2024-03-27 13:20:02,314 basehttp 16772 13412 "GET /about/ HTTP/1.1" 200 1113
+INFO 2024-03-27 13:21:09,018 autoreload 16772 5996 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:21:09,714 autoreload 14040 15428 Watching for file changes with StatReloader
+INFO 2024-03-27 13:21:10,071 basehttp 14040 16868 "GET /about/ HTTP/1.1" 200 1092
+INFO 2024-03-27 13:22:07,535 autoreload 14040 15428 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:22:08,138 autoreload 4784 15116 Watching for file changes with StatReloader
+INFO 2024-03-27 13:22:15,789 basehttp 4784 16956 "GET / HTTP/1.1" 200 2958
+INFO 2024-03-27 13:22:30,149 autoreload 4784 15116 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:22:30,842 autoreload 16696 16592 Watching for file changes with StatReloader
+INFO 2024-03-27 13:22:31,032 basehttp 16696 4760 "GET / HTTP/1.1" 200 2940
+INFO 2024-03-27 13:24:36,291 autoreload 16696 16592 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:24:37,021 autoreload 12336 16740 Watching for file changes with StatReloader
+INFO 2024-03-27 13:24:37,195 basehttp 12336 17216 "GET / HTTP/1.1" 200 2940
+INFO 2024-03-27 13:24:42,446 basehttp 12336 17216 "GET /about/ HTTP/1.1" 200 1167
+INFO 2024-03-27 13:25:08,127 autoreload 12336 16740 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:25:08,841 autoreload 17024 12292 Watching for file changes with StatReloader
+INFO 2024-03-27 13:25:09,018 basehttp 17024 15780 "GET /about/ HTTP/1.1" 200 1173
+INFO 2024-03-27 13:25:53,215 autoreload 17024 12292 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:25:53,896 autoreload 17200 17192 Watching for file changes with StatReloader
+INFO 2024-03-27 13:25:54,386 basehttp 17200 16600 "GET /about/ HTTP/1.1" 200 1247
+INFO 2024-03-27 13:26:48,550 autoreload 17200 17192 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:26:49,249 autoreload 16920 17176 Watching for file changes with StatReloader
+INFO 2024-03-27 13:26:49,394 basehttp 16920 5500 "GET /about/ HTTP/1.1" 200 1173
+INFO 2024-03-27 13:27:14,200 autoreload 16920 17176 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:27:14,917 autoreload 12908 17032 Watching for file changes with StatReloader
+INFO 2024-03-27 13:27:15,210 basehttp 12908 16760 "GET /about/ HTTP/1.1" 200 1185
+INFO 2024-03-27 13:27:45,021 autoreload 12908 17032 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:27:45,799 autoreload 6360 16672 Watching for file changes with StatReloader
+INFO 2024-03-27 13:28:07,696 autoreload 6360 16672 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:28:08,434 autoreload 17268 17000 Watching for file changes with StatReloader
+INFO 2024-03-27 13:28:14,356 basehttp 17268 11932 "GET /about/ HTTP/1.1" 200 1192
+INFO 2024-03-27 13:29:50,614 basehttp 17268 11932 "GET / HTTP/1.1" 200 2940
+INFO 2024-03-27 13:29:51,430 autoreload 17268 17000 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:29:52,145 autoreload 18260 18256 Watching for file changes with StatReloader
+INFO 2024-03-27 13:29:59,733 basehttp 18260 18380 "GET /about/ HTTP/1.1" 200 30
+INFO 2024-03-27 13:30:17,180 autoreload 18260 18256 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
+INFO 2024-03-27 13:30:17,882 autoreload 17480 6632 Watching for file changes with StatReloader
+INFO 2024-03-27 13:30:18,001 basehttp 17480 16600 "GET /about/ HTTP/1.1" 200 1193

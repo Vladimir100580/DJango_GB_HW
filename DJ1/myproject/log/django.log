@@ -1,0 +1,68 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 13
+C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 27
+"GET /about/ HTTP/1.1" 200 27
+"GET /about/ HTTP/1.1" 200 27
+"GET /about/ HTTP/1.1" 200 27
+"GET /about/ HTTP/1.1" 200 27
+"GET / HTTP/1.1" 200 13
+"GET / HTTP/1.1" 200 13
+"GET / HTTP/1.1" 200 13
+"GET / HTTP/1.1" 200 13
+"GET / HTTP/1.1" 200 13
+"GET / HTTP/1.1" 200 13
+C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Index page accessed
+"GET / HTTP/1.1" 200 13
+Index page accessed
+"GET / HTTP/1.1" 200 13
+Index page accessed
+"GET / HTTP/1.1" 200 13
+Index page accessed
+"GET / HTTP/1.1" 200 13
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp\views.py", line 16, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+"GET /about/ HTTP/1.1" 200 27
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp\views.py", line 16, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+"GET /about/ HTTP/1.1" 200 27
+C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-03-27 10:47:03,549 autoreload 288 6776 Watching for file changes with StatReloader
+INFO 2024-03-27 10:47:52,310 autoreload 952 4516 Watching for file changes with StatReloader
+INFO 2024-03-27 10:47:53,983 views 952 7064 Index page accessed
+INFO 2024-03-27 10:47:53,983 basehttp 952 7064 "GET / HTTP/1.1" 200 13
+INFO 2024-03-27 10:47:59,190 views 952 7064 Index page accessed
+INFO 2024-03-27 10:47:59,190 basehttp 952 7064 "GET / HTTP/1.1" 200 13
+INFO 2024-03-27 10:47:59,540 views 952 7064 Index page accessed
+INFO 2024-03-27 10:47:59,540 basehttp 952 7064 "GET / HTTP/1.1" 200 13
+ERROR 2024-03-27 10:48:05,168 views 952 7064 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp\views.py", line 16, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+INFO 2024-03-27 10:48:05,168 basehttp 952 7064 "GET /about/ HTTP/1.1" 200 27
