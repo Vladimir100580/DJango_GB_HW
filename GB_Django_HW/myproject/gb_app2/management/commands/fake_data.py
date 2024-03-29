@@ -25,7 +25,7 @@ class Command(BaseCommand):
             user = User(name=f'{generate_rnd_st(6, 9)}',
                         email=f'{generate_rnd_st(5, 12).lower()}@mail.ru',
                         phone_number=f'+79{randint(100000000, 999999999)}',
-                        password=f'{generate_rnd_st(7, 10).lower}',
+                        password=f'{generate_rnd_st(7, 10).lower()}',
                         address=f'City: {generate_rnd_st(5, 9)}, St: {generate_rnd_st(4, 10)}, home: {randint(1, 100)}',
                         date=generate_rnd_date('01.01.90', '29.03.24'),
                         )

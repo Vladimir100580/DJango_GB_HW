@@ -4,6 +4,7 @@ from gb_app2.models import Order, Product
 
 class Command(BaseCommand):
     help = "Get all orders by user id."
+    # Пример ввода: get_orders_by_user_id 7
 
     def add_arguments(self, parser):
         parser.add_argument('pk', type=int, help='User ID')
