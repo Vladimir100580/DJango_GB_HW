@@ -66,3 +66,48 @@ Traceback (most recent call last):
     result = 1 / 0
 ZeroDivisionError: division by zero
 INFO 2024-03-27 10:48:05,168 basehttp 952 7064 "GET /about/ HTTP/1.1" 200 27
+INFO 2024-03-28 00:42:11,665 autoreload 6576 16584 Watching for file changes with StatReloader
+INFO 2024-03-28 00:44:00,118 autoreload 8708 2924 Watching for file changes with StatReloader
+INFO 2024-03-28 00:44:03,129 views 8708 16024 Index page accessed
+INFO 2024-03-28 00:44:03,129 basehttp 8708 16024 "GET / HTTP/1.1" 200 13
+WARNING 2024-03-28 00:44:03,353 log 8708 16024 Not Found: /favicon.ico
+WARNING 2024-03-28 00:44:03,353 basehttp 8708 16024 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-03-28 00:49:20,342 autoreload 8708 2924 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-03-28 00:49:39,001 autoreload 1352 6672 Watching for file changes with StatReloader
+INFO 2024-03-28 00:49:40,305 basehttp 1352 2056 "GET / HTTP/1.1" 200 13
+INFO 2024-03-28 00:49:46,117 basehttp 1352 2056 "GET / HTTP/1.1" 200 13
+INFO 2024-03-28 00:49:55,951 basehttp 1352 2056 "GET /about/ HTTP/1.1" 200 27
+INFO 2024-03-28 00:52:06,757 autoreload 1352 6672 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-28 00:52:07,529 autoreload 14148 10068 Watching for file changes with StatReloader
+INFO 2024-03-28 00:52:50,895 autoreload 14148 10068 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-28 00:52:51,555 autoreload 12832 4444 Watching for file changes with StatReloader
+INFO 2024-03-28 00:52:52,985 basehttp 12832 17520 "GET /about/ HTTP/1.1" 200 27
+INFO 2024-03-28 00:54:12,812 autoreload 12832 4444 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-03-28 00:54:13,474 autoreload 13604 5620 Watching for file changes with StatReloader
+ERROR 2024-03-28 00:54:13,739 views 13604 16548 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp\views.py", line 16, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+ERROR 2024-03-28 00:54:13,739 views 13604 16548!
+INFO 2024-03-28 00:54:13,741 basehttp 13604 16548 "GET /about/ HTTP/1.1" 200 27
+INFO 2024-03-28 00:55:18,364 autoreload 13604 5620 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp\views.py changed, reloading.
+INFO 2024-03-28 00:55:18,988 autoreload 7852 11460 Watching for file changes with StatReloader
+INFO 2024-03-28 00:59:35,992 autoreload 8692 11960 Watching for file changes with StatReloader
+INFO 2024-03-28 12:04:59,771 autoreload 12280 9900 Watching for file changes with StatReloader
+INFO 2024-03-28 12:05:28,655 autoreload 3580 17720 Watching for file changes with StatReloader
+INFO 2024-03-28 12:28:11,914 autoreload 9676 13824 Watching for file changes with StatReloader
+INFO 2024-03-28 12:31:26,972 views 9676 7848 Index page accessed
+INFO 2024-03-28 12:31:26,972 basehttp 9676 7848 "GET / HTTP/1.1" 200 13
+WARNING 2024-03-28 12:31:27,186 log 9676 7848 Not Found: /favicon.ico
+WARNING 2024-03-28 12:31:27,186 basehttp 9676 7848 "GET /favicon.ico HTTP/1.1" 404 2441
+ERROR 2024-03-28 12:31:39,412 views 9676 7848 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp\views.py", line 16, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+ERROR 2024-03-28 12:31:39,421 views 9676 7848 You can't divide by zero!
+INFO 2024-03-28 12:31:39,421 basehttp 9676 7848 "GET /about/ HTTP/1.1" 200 27
+INFO 2024-03-28 12:31:43,765 views 9676 7848 Index page accessed
+INFO 2024-03-28 12:31:43,765 basehttp 9676 7848 "GET / HTTP/1.1" 200 13
+INFO 2024-03-28 12:34:31,762 autoreload 2648 4256 Watching for file changes with StatReloader

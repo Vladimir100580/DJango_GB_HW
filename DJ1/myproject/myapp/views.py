@@ -16,6 +16,7 @@ def about(request):
         result = 1 / 0
     except Exception as e:
         logger.exception(f'Error in about page: {e}')
+        logger.error("You can't divide by zero!")
         return HttpResponse("Oops, something went wrong.")
     else:
         logger.debug('About page accessed')

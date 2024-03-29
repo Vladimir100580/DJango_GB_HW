@@ -196,3 +196,5 @@ INFO 2024-03-27 13:29:59,733 basehttp 18260 18380 "GET /about/ HTTP/1.1" 200 30
 INFO 2024-03-27 13:30:17,180 autoreload 18260 18256 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app1\views.py changed, reloading.
 INFO 2024-03-27 13:30:17,882 autoreload 17480 6632 Watching for file changes with StatReloader
 INFO 2024-03-27 13:30:18,001 basehttp 17480 16600 "GET /about/ HTTP/1.1" 200 1193
+INFO 2024-03-28 22:04:42,884 autoreload 1832 2280 Watching for file changes with StatReloader
+INFO 2024-03-28 22:07:20,442 autoreload 6132 3084 Watching for file changes with StatReloader
