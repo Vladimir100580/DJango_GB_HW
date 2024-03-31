@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Мой сайт</title>
+    <title>{% block title %}Сайт{% endblock %}</title>
 </head>
 <body>
-    <h1>Приветствую на моём сайте!</h1>
-    <p>Это главная страница.</p>
+    {% block content %}
+        <p>Скоро тут появится текст...</p>
+    {% endblock %}
 </body>
 </html>
+

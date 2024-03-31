@@ -12,7 +12,6 @@ class Command(BaseCommand):
         parser.add_argument('te', type=str, help='top edge')
 
     def handle(self, *args, **kwargs):
-        print(kwargs.get('be'), kwargs.get('te'))
         be = datetime.strptime(kwargs.get('be'), '%d.%m.%y').date()
         te = datetime.strptime(kwargs.get('te'), '%d.%m.%y').date()
 
