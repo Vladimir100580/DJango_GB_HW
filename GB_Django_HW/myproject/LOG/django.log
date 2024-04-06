@@ -1551,3 +1551,131 @@ INFO 2024-04-01 02:29:52,657 basehttp 15484 3976 "GET /user/4/30 HTTP/1.1" 200 1
 INFO 2024-04-01 02:29:56,026 basehttp 15484 3976 "GET /user/4/365 HTTP/1.1" 200 1982
 INFO 2024-04-01 02:29:59,181 basehttp 15484 3976 "GET /user/4/0 HTTP/1.1" 200 2634
 INFO 2024-04-01 02:30:52,938 basehttp 15484 3976 "GET /user/8/0 HTTP/1.1" 200 2146
+INFO 2024-04-01 02:36:52,589 autoreload 11396 4500 Watching for file changes with StatReloader
+WARNING 2024-04-01 02:36:56,233 log 11396 15568 Not Found: /
+WARNING 2024-04-01 02:36:56,235 basehttp 11396 15568 "GET / HTTP/1.1" 404 2439
+INFO 2024-04-01 02:37:05,264 basehttp 11396 15568 "GET /users/ HTTP/1.1" 200 2656
+INFO 2024-04-01 02:37:11,050 basehttp 11396 15568 "GET /user/4/0 HTTP/1.1" 200 2634
+INFO 2024-04-01 02:37:16,982 basehttp 11396 15568 "GET /user/4/300 HTTP/1.1" 200 1982
+INFO 2024-04-01 02:37:23,613 basehttp 11396 15568 "GET /user/4/500 HTTP/1.1" 200 1982
+INFO 2024-04-01 02:37:26,663 basehttp 11396 15568 "GET /user/4/700 HTTP/1.1" 200 1982
+INFO 2024-04-01 02:37:30,411 basehttp 11396 15568 "GET /user/4/900 HTTP/1.1" 200 1982
+INFO 2024-04-01 02:37:34,397 basehttp 11396 15568 "GET /user/4/10000 HTTP/1.1" 200 2650
+INFO 2024-04-06 15:08:22,200 autoreload 5368 17792 Watching for file changes with StatReloader
+WARNING 2024-04-06 15:08:26,203 log 5368 14764 Not Found: /
+WARNING 2024-04-06 15:08:26,203 basehttp 5368 14764 "GET / HTTP/1.1" 404 2621
+INFO 2024-04-06 15:08:45,560 basehttp 5368 14764 "GET /products HTTP/1.1" 301 0
+INFO 2024-04-06 15:08:46,031 basehttp 5368 14764 "GET /products/ HTTP/1.1" 200 1912
+INFO 2024-04-06 15:12:26,883 autoreload 5368 17792 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app4\urls.py changed, reloading.
+INFO 2024-04-06 15:12:27,656 autoreload 18756 13264 Watching for file changes with StatReloader
+INFO 2024-04-06 15:12:30,512 basehttp 18756 6072 "GET / HTTP/1.1" 200 1912
+ERROR 2024-04-06 15:12:33,098 log 18756 6072 Internal Server Error: /add_prod_picture/2/
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: add_prod_picture() got an unexpected keyword argument 'user_id'
+ERROR 2024-04-06 15:12:33,100 basehttp 18756 6072 "GET /add_prod_picture/2/ HTTP/1.1" 500 63985
+INFO 2024-04-06 15:14:25,765 autoreload 18756 13264 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app4\urls.py changed, reloading.
+INFO 2024-04-06 15:14:26,457 autoreload 17600 13500 Watching for file changes with StatReloader
+ERROR 2024-04-06 15:14:28,121 log 17600 6396 Internal Server Error: /add_prod_picture/2/
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app4\views.py", line 29, in add_prod_picture
+    return render(request, 'gb_app4/add_prod_picture.html', {'pr': prod, 'form': form})
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'products' not found. 'products' is not a valid view function or pattern name.
+ERROR 2024-04-06 15:14:28,124 basehttp 17600 6396 "GET /add_prod_picture/2/ HTTP/1.1" 500 162195
+INFO 2024-04-06 15:15:04,782 basehttp 17600 6396 "GET /add_prod_picture/2/ HTTP/1.1" 200 1209
+INFO 2024-04-06 15:15:11,853 basehttp 17600 6396 "GET / HTTP/1.1" 200 1912
+INFO 2024-04-06 15:15:13,394 basehttp 17600 6396 "GET /add_prod_picture/4/ HTTP/1.1" 200 1208
+INFO 2024-04-06 15:15:16,087 basehttp 17600 6396 "GET / HTTP/1.1" 200 1912
+INFO 2024-04-06 15:16:08,099 autoreload 17600 13500 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app4\urls.py changed, reloading.
+INFO 2024-04-06 15:16:08,853 autoreload 15000 20056 Watching for file changes with StatReloader
+INFO 2024-04-06 15:19:43,973 basehttp 15000 16720 "GET / HTTP/1.1" 200 1912
+INFO 2024-04-06 15:19:46,479 basehttp 15000 16720 "GET /add_prod_picture/1/ HTTP/1.1" 200 1231
+INFO 2024-04-06 15:24:52,702 basehttp 15000 1460 "GET / HTTP/1.1" 200 1912
+INFO 2024-04-06 15:25:00,270 basehttp 15000 1460 "GET / HTTP/1.1" 200 1912
+INFO 2024-04-06 15:25:09,786 basehttp 15000 1460 "GET /add_prod_picture/4/ HTTP/1.1" 200 1233
+INFO 2024-04-06 15:25:32,060 basehttp 15000 1460 "POST /add_prod_picture/4/ HTTP/1.1" 200 1346
+INFO 2024-04-06 15:25:32,129 basehttp 15000 1460 "GET /media/apple.jpeg HTTP/1.1" 200 1295717
+INFO 2024-04-06 15:26:01,944 basehttp 15000 1460 "GET / HTTP/1.1" 200 1983
+INFO 2024-04-06 15:26:01,974 basehttp 15000 1460 "GET /media/apple.jpeg HTTP/1.1" 304 0
+INFO 2024-04-06 15:26:25,661 basehttp 15000 1460 "GET / HTTP/1.1" 200 2007
+INFO 2024-04-06 15:26:25,698 basehttp 15000 1460 "GET /media/apple.jpeg HTTP/1.1" 304 0
+INFO 2024-04-06 15:27:03,014 basehttp 15000 1460 "GET / HTTP/1.1" 200 2007
+INFO 2024-04-06 15:27:03,041 basehttp 15000 1460 "GET /media/apple.jpeg HTTP/1.1" 304 0
+INFO 2024-04-06 15:27:31,080 basehttp 15000 1460 "GET / HTTP/1.1" 200 2007
+INFO 2024-04-06 15:27:31,109 basehttp 15000 1460 "GET /media/apple.jpeg HTTP/1.1" 304 0
+INFO 2024-04-06 15:28:22,520 basehttp 15000 1460 "GET /add_prod_picture/6/ HTTP/1.1" 200 1234
+INFO 2024-04-06 15:28:31,053 basehttp 15000 1460 "POST /add_prod_picture/6/ HTTP/1.1" 200 1347
+INFO 2024-04-06 15:28:31,090 basehttp 15000 1460 "GET /media/banaas.jpg HTTP/1.1" 200 206640
+INFO 2024-04-06 15:28:33,527 basehttp 15000 1460 "GET / HTTP/1.1" 200 2078
+INFO 2024-04-06 15:28:33,557 basehttp 15000 1460 "GET /media/apple.jpeg HTTP/1.1" 304 0
+INFO 2024-04-06 15:28:33,563 basehttp 15000 1460 "GET /media/banaas.jpg HTTP/1.1" 304 0
+INFO 2024-04-06 15:28:44,859 basehttp 15000 1460 "GET /add_prod_picture/1/ HTTP/1.1" 200 1232
+INFO 2024-04-06 15:28:55,668 basehttp 15000 1460 "POST /add_prod_picture/1/ HTTP/1.1" 200 1348
+INFO 2024-04-06 15:28:55,705 basehttp 15000 1460 "GET /media/note_book.jpg HTTP/1.1" 200 294723
+INFO 2024-04-06 15:28:59,723 basehttp 15000 1460 "GET / HTTP/1.1" 200 2152
+INFO 2024-04-06 15:28:59,752 basehttp 15000 1460 "GET /media/note_book.jpg HTTP/1.1" 304 0
+INFO 2024-04-06 15:28:59,757 basehttp 15000 1460 "GET /media/apple.jpeg HTTP/1.1" 304 0
+INFO 2024-04-06 15:28:59,757 basehttp 15000 14108 "GET /media/banaas.jpg HTTP/1.1" 304 0
+INFO 2024-04-06 15:29:02,419 basehttp 15000 1460 "GET /add_prod_picture/2/ HTTP/1.1" 200 1234
+INFO 2024-04-06 15:29:11,148 basehttp 15000 1460 "POST /add_prod_picture/2/ HTTP/1.1" 200 1346
+INFO 2024-04-06 15:29:11,182 basehttp 15000 1460 "GET /media/telek.jpg HTTP/1.1" 200 73982
+INFO 2024-04-06 15:29:14,221 basehttp 15000 1460 "GET / HTTP/1.1" 200 2222
+INFO 2024-04-06 15:29:14,253 basehttp 15000 1460 "GET /media/note_book.jpg HTTP/1.1" 304 0
+INFO 2024-04-06 15:29:14,258 basehttp 15000 14108 "GET /media/banaas.jpg HTTP/1.1" 304 0
+INFO 2024-04-06 15:29:14,258 basehttp 15000 1460 "GET /media/telek.jpg HTTP/1.1" 304 0
+INFO 2024-04-06 15:29:16,886 basehttp 15000 1460 "GET /add_prod_picture/3/ HTTP/1.1" 200 1233
+INFO 2024-04-06 15:29:23,088 basehttp 15000 1460 "POST /add_prod_picture/3/ HTTP/1.1" 200 1344
+INFO 2024-04-06 15:29:23,129 basehttp 15000 1460 "GET /media/book.png HTTP/1.1" 200 464866
+INFO 2024-04-06 15:30:54,244 basehttp 15000 1460 "GET / HTTP/1.1" 200 2291
+INFO 2024-04-06 15:30:54,273 basehttp 15000 1460 "GET /media/note_book.jpg HTTP/1.1" 304 0
+INFO 2024-04-06 15:30:54,278 basehttp 15000 1460 "GET /media/telek.jpg HTTP/1.1" 304 0
+INFO 2024-04-06 15:30:54,278 basehttp 15000 14108 "GET /media/book.png HTTP/1.1" 304 0
+INFO 2024-04-06 15:30:54,284 basehttp 15000 12348 "GET /media/apple.jpeg HTTP/1.1" 304 0
+INFO 2024-04-06 15:30:54,284 basehttp 15000 17112 "GET /media/banaas.jpg HTTP/1.1" 304 0

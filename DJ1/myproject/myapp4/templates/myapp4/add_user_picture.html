@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% block content %}
+<h2>Загрузите изображение для пользователя {{us.name}}</h2>
+{% if us.image_us %}
+    <h2> Текущее изображение </h2>
+    <img src="/les4{{us.image_us}}">
+{% endif %}
+<form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Загрузить</button>
+</form>
+<br><br>
+<a href="{% url 'users' %}"> Перейти к списку пользователей </a>
+
+<style>
+img {
+  height: auto;
+  width: 60%;
+  max-width: 500px;
+}
+</style>
+
+{% endblock %}

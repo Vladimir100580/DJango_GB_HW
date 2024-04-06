@@ -6,5 +6,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('prefix/', include('myapp.urls')),
     path('les3/', include('myapp3.urls')),   # здесь '/' обязателен
-    path('', index)
+    path('', index),
+    path('les4/', include('myapp4.urls')),
     ]

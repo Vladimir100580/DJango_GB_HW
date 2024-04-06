@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block title %} Список всех пользователей {% endblock %}
+
+{% block content %}
+    <h2> Выберите пользователя, для добавления картинки профиля </h2>
+    <table>
+        {% for us in users %}
+        <tr>
+            <td><a href="{% url 'add_user_picture' us.id %}">{{ us }}</a>
+            <td><img src="/les4{{us.image_us}}">
+        </tr>
+        {% endfor %}
+    </table>
+
+<style>
+img {
+  height: auto;
+  width: 30%;
+  /* еще больше контроля с max-width */
+  max-width: 100px;
+}
+</style>
+
+{% endblock %}
