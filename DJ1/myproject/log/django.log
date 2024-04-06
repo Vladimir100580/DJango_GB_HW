@@ -1773,3 +1773,536 @@ INFO 2024-04-06 11:59:29,802 basehttp 13860 4152 "POST /les4/add_user_picture/4/
 INFO 2024-04-06 11:59:29,886 basehttp 13860 4152 "GET /les4/media/total61.jpg HTTP/1.1" 200 325910
 INFO 2024-04-06 11:59:43,605 basehttp 13860 4152 "GET /les4/users/ HTTP/1.1" 200 1883
 INFO 2024-04-06 11:59:43,636 basehttp 13860 4152 "GET /les4/media/total61.jpg HTTP/1.1" 304 0
+INFO 2024-04-06 16:04:16,936 autoreload 11244 19816 Watching for file changes with StatReloader
+INFO 2024-04-06 16:04:18,760 basehttp 11244 18648 "GET / HTTP/1.1" 200 300
+INFO 2024-04-06 16:04:23,779 basehttp 11244 18648 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 16:04:23,873 basehttp 11244 18648 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2218
+INFO 2024-04-06 16:04:23,981 basehttp 11244 18648 "GET /static/admin/css/base.css HTTP/1.1" 200 20344
+INFO 2024-04-06 16:04:23,989 basehttp 11244 18648 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2024-04-06 16:04:24,025 basehttp 11244 14860 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2619
+INFO 2024-04-06 16:04:24,034 basehttp 11244 9728 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 796
+INFO 2024-04-06 16:04:24,034 basehttp 11244 18084 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2024-04-06 16:04:24,034 basehttp 11244 18340 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18854
+INFO 2024-04-06 16:04:24,042 basehttp 11244 1920 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3763
+INFO 2024-04-06 16:04:24,063 basehttp 11244 1920 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2024-04-06 16:04:24,066 basehttp 11244 18340 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2024-04-06 16:05:35,544 autoreload 11244 19816 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-04-06 16:05:36,213 autoreload 11228 13668 Watching for file changes with StatReloader
+INFO 2024-04-06 16:06:36,353 basehttp 11228 8740 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2304
+INFO 2024-04-06 16:21:10,748 autoreload 18200 18844 Watching for file changes with StatReloader
+INFO 2024-04-06 16:21:15,882 basehttp 18200 9592 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2304
+INFO 2024-04-06 16:21:24,859 basehttp 18200 9592 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 16:21:25,472 basehttp 18200 9592 "GET /admin/ HTTP/1.1" 200 3876
+INFO 2024-04-06 16:21:25,534 basehttp 18200 9592 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+INFO 2024-04-06 16:21:25,551 basehttp 18200 19836 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-04-06 16:21:25,551 basehttp 18200 9592 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-04-06 16:21:25,568 basehttp 18200 9592 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2024-04-06 16:21:56,021 basehttp 18200 9592 "GET / HTTP/1.1" 200 300
+INFO 2024-04-06 16:23:20,333 basehttp 18200 9592 "GET /admin/auth/user/ HTTP/1.1" 200 9293
+INFO 2024-04-06 16:23:20,387 basehttp 18200 9592 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6395
+INFO 2024-04-06 16:23:20,389 basehttp 18200 18624 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-04-06 16:23:20,395 basehttp 18200 8164 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8985
+INFO 2024-04-06 16:23:20,398 basehttp 18200 19512 "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+INFO 2024-04-06 16:23:20,403 basehttp 18200 18624 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+INFO 2024-04-06 16:23:20,403 basehttp 18200 9592 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2024-04-06 16:23:20,405 basehttp 18200 8164 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-04-06 16:23:20,415 basehttp 18200 9592 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-04-06 16:23:20,415 basehttp 18200 18624 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2024-04-06 16:23:20,426 basehttp 18200 10112 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+INFO 2024-04-06 16:23:20,448 basehttp 18200 19512 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2024-04-06 16:23:20,461 basehttp 18200 19512 "GET /static/admin/js/filters.js HTTP/1.1" 200 966
+INFO 2024-04-06 16:23:20,963 basehttp 18200 19836 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 16:23:20,991 basehttp 18200 19836 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-04-06 16:23:20,993 basehttp 18200 19512 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-04-06 16:23:27,730 basehttp 18200 19512 "GET /admin/auth/group/ HTTP/1.1" 200 5590
+INFO 2024-04-06 16:23:28,288 basehttp 18200 19512 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 16:23:37,847 basehttp 18200 19512 "GET /admin/auth/user/ HTTP/1.1" 200 9293
+INFO 2024-04-06 16:23:38,311 basehttp 18200 19512 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 16:23:39,376 basehttp 18200 19512 "GET /admin/auth/user/ HTTP/1.1" 200 9293
+INFO 2024-04-06 16:23:39,847 basehttp 18200 19512 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 16:24:48,268 basehttp 18200 19512 "GET /admin/auth/user/1/change/ HTTP/1.1" 200 19865
+INFO 2024-04-06 16:24:48,306 basehttp 18200 19512 "GET /static/admin/css/forms.css HTTP/1.1" 200 8944
+INFO 2024-04-06 16:24:48,309 basehttp 18200 18624 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 11317
+INFO 2024-04-06 16:24:48,309 basehttp 18200 19836 "GET /static/admin/js/calendar.js HTTP/1.1" 200 8466
+INFO 2024-04-06 16:24:48,316 basehttp 18200 9592 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4360
+INFO 2024-04-06 16:24:48,316 basehttp 18200 10112 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19379
+INFO 2024-04-06 16:24:48,316 basehttp 18200 19512 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-04-06 16:24:48,338 basehttp 18200 19512 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11297
+INFO 2024-04-06 16:24:48,350 basehttp 18200 19512 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-04-06 16:24:48,880 basehttp 18200 8164 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 16:24:48,943 basehttp 18200 19512 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2024-04-06 16:24:48,943 basehttp 18200 9592 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2024-04-06 16:24:48,944 basehttp 18200 10112 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2024-04-06 16:24:48,944 basehttp 18200 19836 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-04-06 16:24:48,945 basehttp 18200 8164 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2024-04-06 16:24:56,012 basehttp 18200 8164 "GET /admin/auth/user/ HTTP/1.1" 200 9293
+INFO 2024-04-06 16:25:30,910 basehttp 18200 8164 "GET /admin/auth/user/add/ HTTP/1.1" 200 8453
+INFO 2024-04-06 16:25:31,480 basehttp 18200 8164 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 16:26:31,260 basehttp 18200 8164 "POST /admin/auth/user/add/ HTTP/1.1" 200 8940
+INFO 2024-04-06 16:26:31,737 basehttp 18200 8164 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 16:27:13,714 basehttp 18200 8164 "POST /admin/auth/user/add/ HTTP/1.1" 302 0
+INFO 2024-04-06 16:27:14,677 basehttp 18200 8164 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 20105
+INFO 2024-04-06 16:27:15,158 basehttp 18200 8164 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 16:30:57,577 basehttp 18200 8164 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2024-04-06 16:30:58,343 basehttp 18200 8164 "GET /admin/auth/user/ HTTP/1.1" 200 9927
+INFO 2024-04-06 16:30:58,823 basehttp 18200 8164 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 16:31:59,034 basehttp 18200 8164 "GET /admin/auth/group/ HTTP/1.1" 200 5590
+INFO 2024-04-06 16:31:59,508 basehttp 18200 8164 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 16:32:08,799 basehttp 18200 8164 "GET /admin/auth/group/add/ HTTP/1.1" 200 10950
+INFO 2024-04-06 16:32:09,386 basehttp 18200 8164 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 16:32:45,388 basehttp 18200 8164 "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 2024-04-06 16:32:45,974 basehttp 18200 8164 "GET /admin/auth/group/ HTTP/1.1" 200 7063
+INFO 2024-04-06 16:32:46,451 basehttp 18200 8164 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 16:32:49,738 basehttp 18200 8164 "GET /admin/auth/user/ HTTP/1.1" 200 10013
+INFO 2024-04-06 16:32:50,213 basehttp 18200 8164 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 16:32:52,789 basehttp 18200 8164 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 19944
+INFO 2024-04-06 16:32:53,354 basehttp 18200 8164 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 16:33:39,834 basehttp 18200 8164 "POST /admin/logout/ HTTP/1.1" 200 1682
+INFO 2024-04-06 16:33:49,132 basehttp 18200 8164 "POST /admin/logout/ HTTP/1.1" 302 0
+INFO 2024-04-06 16:33:49,137 basehttp 18200 8164 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 16:33:49,145 basehttp 18200 8164 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2304
+INFO 2024-04-06 16:34:14,001 basehttp 18200 8164 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2570
+INFO 2024-04-06 16:34:24,082 basehttp 18200 8164 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 16:34:24,691 basehttp 18200 8164 "GET /admin/ HTTP/1.1" 200 2831
+INFO 2024-04-06 21:23:47,110 autoreload 6936 9348 Watching for file changes with StatReloader
+INFO 2024-04-06 21:23:49,827 basehttp 6936 5184 "GET / HTTP/1.1" 200 300
+INFO 2024-04-06 21:23:52,996 basehttp 6936 5184 "GET /admin/ HTTP/1.1" 200 2831
+INFO 2024-04-06 21:24:33,225 basehttp 6936 5184 "POST /admin/logout/ HTTP/1.1" 200 1682
+INFO 2024-04-06 21:24:35,812 basehttp 6936 5184 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:24:35,829 basehttp 6936 5184 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2304
+INFO 2024-04-06 21:24:44,086 basehttp 6936 5184 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:24:44,800 basehttp 6936 5184 "GET /admin/ HTTP/1.1" 200 5929
+INFO 2024-04-06 21:26:31,355 autoreload 6936 9348 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp3\admin.py changed, reloading.
+INFO 2024-04-06 21:26:32,180 autoreload 9280 11596 Watching for file changes with StatReloader
+INFO 2024-04-06 21:27:05,104 autoreload 9280 11596 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp3\admin.py changed, reloading.
+INFO 2024-04-06 21:27:05,767 autoreload 7560 3212 Watching for file changes with StatReloader
+INFO 2024-04-06 21:27:13,072 basehttp 7560 5488 "GET /admin/ HTTP/1.1" 200 7044
+INFO 2024-04-06 21:27:20,563 basehttp 7560 5488 "GET /admin/myapp3/author/ HTTP/1.1" 200 9599
+INFO 2024-04-06 21:27:21,127 basehttp 7560 5488 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:27:33,528 basehttp 7560 5488 "GET /admin/myapp3/post/ HTTP/1.1" 200 18498
+INFO 2024-04-06 21:27:33,994 basehttp 7560 5488 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:27:47,170 basehttp 7560 5488 "GET /admin/myapp5/category/ HTTP/1.1" 200 6919
+INFO 2024-04-06 21:27:47,695 basehttp 7560 5488 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:27:51,463 basehttp 7560 5488 "GET /admin/myapp5/product/ HTTP/1.1" 200 6912
+INFO 2024-04-06 21:27:51,989 basehttp 7560 5488 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:27:56,352 basehttp 7560 5488 "GET /admin/myapp3/author/ HTTP/1.1" 200 9599
+INFO 2024-04-06 21:27:56,901 basehttp 7560 5488 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:27:59,466 basehttp 7560 5488 "GET /admin/myapp3/post/ HTTP/1.1" 200 18498
+INFO 2024-04-06 21:28:00,072 basehttp 7560 5488 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:28:11,310 basehttp 7560 5488 "POST /admin/logout/ HTTP/1.1" 200 1682
+INFO 2024-04-06 21:28:12,872 basehttp 7560 5488 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:28:12,883 basehttp 7560 5488 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2304
+INFO 2024-04-06 21:28:23,646 basehttp 7560 5488 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2570
+INFO 2024-04-06 21:28:35,994 basehttp 7560 5488 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:28:36,770 basehttp 7560 5488 "GET /admin/ HTTP/1.1" 200 2831
+INFO 2024-04-06 21:29:40,133 basehttp 7560 5488 "GET /admin/ HTTP/1.1" 200 2831
+INFO 2024-04-06 21:30:00,253 basehttp 7560 5488 "POST /admin/logout/ HTTP/1.1" 200 1682
+INFO 2024-04-06 21:30:01,692 basehttp 7560 5488 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:30:01,698 basehttp 7560 5488 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2304
+INFO 2024-04-06 21:30:09,707 basehttp 7560 5488 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:30:10,289 basehttp 7560 5488 "GET /admin/ HTTP/1.1" 200 7044
+INFO 2024-04-06 21:30:16,492 basehttp 7560 5488 "GET /admin/auth/user/ HTTP/1.1" 200 11707
+INFO 2024-04-06 21:30:17,027 basehttp 7560 5488 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:30:19,857 basehttp 7560 5488 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 22224
+INFO 2024-04-06 21:30:20,321 basehttp 7560 5488 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:31:03,223 basehttp 7560 5488 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:31:03,970 basehttp 7560 5488 "GET /admin/auth/user/ HTTP/1.1" 200 11927
+INFO 2024-04-06 21:31:04,518 basehttp 7560 5488 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:31:08,266 basehttp 7560 5488 "POST /admin/logout/ HTTP/1.1" 200 1682
+INFO 2024-04-06 21:31:09,621 basehttp 7560 5488 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:31:09,625 basehttp 7560 5488 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2304
+INFO 2024-04-06 21:31:21,530 basehttp 7560 5488 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:31:25,173 basehttp 7560 5488 "GET /admin/ HTTP/1.1" 200 3370
+INFO 2024-04-06 21:31:38,171 basehttp 7560 5488 "GET /admin/myapp3/post/ HTTP/1.1" 200 10054
+INFO 2024-04-06 21:31:41,071 basehttp 7560 5488 "GET /admin/myapp3/post/47/change/ HTTP/1.1" 200 7696
+INFO 2024-04-06 21:31:41,558 basehttp 7560 5488 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:31:59,370 basehttp 7560 5488 "GET /admin/myapp3/post/ HTTP/1.1" 200 10054
+INFO 2024-04-06 21:32:06,240 basehttp 7560 5488 - Broken pipe from ('127.0.0.1', 65055)
+INFO 2024-04-06 21:32:07,174 basehttp 7560 17992 "GET /admin/myapp3/post/49/change/ HTTP/1.1" 200 7653
+INFO 2024-04-06 21:32:07,737 basehttp 7560 17992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:32:29,423 basehttp 7560 17992 "GET /admin/myapp3/post/ HTTP/1.1" 200 10054
+INFO 2024-04-06 21:32:34,986 basehttp 7560 17992 "POST /admin/logout/ HTTP/1.1" 200 1682
+INFO 2024-04-06 21:32:36,670 basehttp 7560 17992 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:32:36,680 basehttp 7560 17992 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2304
+INFO 2024-04-06 21:32:43,266 basehttp 7560 17992 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:32:43,777 basehttp 7560 17992 "GET /admin/ HTTP/1.1" 200 7343
+INFO 2024-04-06 21:32:48,530 basehttp 7560 17992 "GET /admin/auth/user/ HTTP/1.1" 200 11707
+INFO 2024-04-06 21:32:49,110 basehttp 7560 17992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:33:00,947 basehttp 7560 17992 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 22251
+INFO 2024-04-06 21:33:01,426 basehttp 7560 17992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:33:16,508 basehttp 7560 17992 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:33:17,213 basehttp 7560 17992 "GET /admin/auth/user/ HTTP/1.1" 200 11927
+INFO 2024-04-06 21:33:17,775 basehttp 7560 17992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:33:24,423 basehttp 7560 17992 "POST /admin/logout/ HTTP/1.1" 200 1682
+INFO 2024-04-06 21:33:25,676 basehttp 7560 17992 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:33:25,684 basehttp 7560 17992 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2304
+INFO 2024-04-06 21:33:35,825 basehttp 7560 17992 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:33:36,384 basehttp 7560 17992 "GET /admin/ HTTP/1.1" 200 7642
+INFO 2024-04-06 21:34:04,665 basehttp 7560 17992 "POST /admin/logout/ HTTP/1.1" 200 1682
+INFO 2024-04-06 21:34:05,945 basehttp 7560 17992 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:34:05,955 basehttp 7560 17992 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2304
+INFO 2024-04-06 21:34:16,126 basehttp 7560 17992 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:34:16,903 basehttp 7560 17992 "GET /admin/ HTTP/1.1" 200 3370
+INFO 2024-04-06 21:34:21,904 basehttp 7560 17992 "GET /admin/myapp3/post/ HTTP/1.1" 200 16433
+INFO 2024-04-06 21:34:22,389 basehttp 7560 17992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:34:25,788 basehttp 7560 17992 "GET /admin/myapp3/post/38/change/ HTTP/1.1" 200 7816
+INFO 2024-04-06 21:34:26,310 basehttp 7560 17992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:34:43,715 basehttp 7560 13608 "GET /admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:34:43,721 basehttp 7560 13608 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2304
+INFO 2024-04-06 21:34:43,858 basehttp 7560 13608 "GET /static/admin/css/base.css HTTP/1.1" 200 20344
+INFO 2024-04-06 21:34:43,859 basehttp 7560 20032 "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 796
+INFO 2024-04-06 21:34:43,863 basehttp 7560 20032 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2024-04-06 21:34:43,888 basehttp 7560 14300 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3763
+INFO 2024-04-06 21:34:43,888 basehttp 7560 6524 "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 2024-04-06 21:34:43,896 basehttp 7560 3536 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2619
+INFO 2024-04-06 21:34:43,897 basehttp 7560 16660 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18854
+INFO 2024-04-06 21:34:43,922 basehttp 7560 3536 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2024-04-06 21:34:43,923 basehttp 7560 16660 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2024-04-06 21:34:44,012 basehttp 7560 2336 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2304
+WARNING 2024-04-06 21:34:44,050 log 7560 16660 Not Found: /favicon.ico
+WARNING 2024-04-06 21:34:44,051 basehttp 7560 16660 "GET /favicon.ico HTTP/1.1" 404 2530
+INFO 2024-04-06 21:34:52,637 basehttp 7560 16660 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:34:53,233 basehttp 7560 16660 "GET /admin/ HTTP/1.1" 200 7642
+INFO 2024-04-06 21:34:53,247 basehttp 7560 16660 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+INFO 2024-04-06 21:34:53,254 basehttp 7560 16660 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2024-04-06 21:34:53,254 basehttp 7560 3536 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2024-04-06 21:34:53,269 basehttp 7560 16660 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2024-04-06 21:34:53,900 basehttp 7560 2336 "GET /admin/ HTTP/1.1" 200 7642
+INFO 2024-04-06 21:34:55,975 basehttp 7560 16660 "GET /admin/auth/user/ HTTP/1.1" 200 11707
+INFO 2024-04-06 21:34:55,989 basehttp 7560 16660 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6395
+INFO 2024-04-06 21:34:55,993 basehttp 7560 20032 "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+INFO 2024-04-06 21:34:55,993 basehttp 7560 13608 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8985
+INFO 2024-04-06 21:34:55,994 basehttp 7560 14300 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2024-04-06 21:34:55,994 basehttp 7560 16660 "GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO 2024-04-06 21:34:56,000 basehttp 7560 13608 "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+INFO 2024-04-06 21:34:56,000 basehttp 7560 20032 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2024-04-06 21:34:56,000 basehttp 7560 16660 "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 2024-04-06 21:34:56,004 basehttp 7560 13608 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2024-04-06 21:34:56,005 basehttp 7560 6524 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+INFO 2024-04-06 21:34:56,005 basehttp 7560 14300 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO 2024-04-06 21:34:56,009 basehttp 7560 14300 "GET /static/admin/js/filters.js HTTP/1.1" 200 966
+INFO 2024-04-06 21:34:56,471 basehttp 7560 3536 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:34:56,499 basehttp 7560 3536 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2024-04-06 21:34:56,499 basehttp 7560 14300 "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 2024-04-06 21:34:57,329 basehttp 7560 2336 "GET /admin/auth/user/ HTTP/1.1" 200 11707
+INFO 2024-04-06 21:35:01,661 basehttp 7560 3536 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 22260
+INFO 2024-04-06 21:35:01,678 basehttp 7560 14300 "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4360
+INFO 2024-04-06 21:35:01,678 basehttp 7560 16660 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2024-04-06 21:35:01,678 basehttp 7560 3536 "GET /static/admin/css/forms.css HTTP/1.1" 200 8944
+INFO 2024-04-06 21:35:01,678 basehttp 7560 6524 "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 11317
+INFO 2024-04-06 21:35:01,682 basehttp 7560 6524 "GET /static/admin/css/widgets.css HTTP/1.1" 200 11297
+INFO 2024-04-06 21:35:01,685 basehttp 7560 6524 "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2024-04-06 21:35:02,231 basehttp 7560 13608 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:35:02,290 basehttp 7560 13608 "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 2024-04-06 21:35:02,290 basehttp 7560 6524 "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 2024-04-06 21:35:02,290 basehttp 7560 14300 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2024-04-06 21:35:02,290 basehttp 7560 16660 "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+INFO 2024-04-06 21:35:03,480 basehttp 7560 2336 "GET /admin/auth/user/2/change/ HTTP/1.1" 200 22260
+INFO 2024-04-06 21:35:29,167 basehttp 7560 13608 "POST /admin/auth/user/2/change/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:35:29,931 basehttp 7560 13608 "GET /admin/auth/user/ HTTP/1.1" 200 11927
+INFO 2024-04-06 21:35:30,360 basehttp 7560 13608 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:35:31,059 basehttp 7560 2336 "GET /admin/auth/user/ HTTP/1.1" 200 11707
+INFO 2024-04-06 21:35:32,137 basehttp 7560 17992 "GET /admin/myapp3/post/38/change/ HTTP/1.1" 200 7698
+INFO 2024-04-06 21:35:32,741 basehttp 7560 17992 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:37:27,497 basehttp 7560 8256 "GET /admin/myapp5/category/ HTTP/1.1" 200 6919
+INFO 2024-04-06 21:37:28,045 basehttp 7560 8256 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:37:28,879 basehttp 7560 8620 "GET /admin/myapp5/category/ HTTP/1.1" 200 6919
+INFO 2024-04-06 21:37:31,002 basehttp 7560 8256 "GET /admin/myapp5/category/add/ HTTP/1.1" 200 7615
+INFO 2024-04-06 21:37:31,589 basehttp 7560 8256 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:37:32,199 basehttp 7560 8620 "GET /admin/myapp5/category/add/ HTTP/1.1" 200 7615
+INFO 2024-04-06 21:37:40,644 basehttp 7560 8256 "POST /admin/myapp5/category/add/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:37:41,393 basehttp 7560 8256 "GET /admin/myapp5/category/ HTTP/1.1" 200 8394
+INFO 2024-04-06 21:37:41,852 basehttp 7560 8256 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:37:42,658 basehttp 7560 8620 "GET /admin/myapp5/category/ HTTP/1.1" 200 8178
+INFO 2024-04-06 21:37:44,629 basehttp 7560 8256 "GET /admin/myapp5/category/add/ HTTP/1.1" 200 7615
+INFO 2024-04-06 21:37:45,125 basehttp 7560 8256 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:37:45,775 basehttp 7560 8620 "GET /admin/myapp5/category/add/ HTTP/1.1" 200 7615
+INFO 2024-04-06 21:37:51,095 basehttp 7560 8256 "POST /admin/myapp5/category/add/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:37:51,674 basehttp 7560 8256 "GET /admin/myapp5/category/ HTTP/1.1" 200 8601
+INFO 2024-04-06 21:37:52,240 basehttp 7560 8256 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:37:52,947 basehttp 7560 8620 "GET /admin/myapp5/category/ HTTP/1.1" 200 8389
+INFO 2024-04-06 21:37:56,175 basehttp 7560 8256 "GET /admin/myapp5/product/ HTTP/1.1" 200 6912
+INFO 2024-04-06 21:37:56,672 basehttp 7560 8256 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:37:57,444 basehttp 7560 8620 "GET /admin/myapp5/product/ HTTP/1.1" 200 6912
+INFO 2024-04-06 21:37:59,093 basehttp 7560 8256 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 9324
+INFO 2024-04-06 21:37:59,114 basehttp 7560 8256 "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 2024-04-06 21:37:59,644 basehttp 7560 16988 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:38:00,468 basehttp 7560 8620 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 9324
+INFO 2024-04-06 21:38:06,778 basehttp 7560 16988 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:38:07,544 basehttp 7560 16988 "GET /admin/myapp5/product/ HTTP/1.1" 200 8370
+INFO 2024-04-06 21:38:08,122 basehttp 7560 16988 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:38:08,730 basehttp 7560 8620 "GET /admin/myapp5/product/ HTTP/1.1" 200 8162
+INFO 2024-04-06 21:38:11,280 basehttp 7560 16988 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 9324
+INFO 2024-04-06 21:38:11,772 basehttp 7560 16988 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:38:12,570 basehttp 7560 8620 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 9324
+INFO 2024-04-06 21:38:24,162 basehttp 7560 16988 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:38:25,105 basehttp 7560 16988 "GET /admin/myapp5/product/ HTTP/1.1" 200 8590
+INFO 2024-04-06 21:38:28,090 basehttp 7560 16988 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:38:28,669 basehttp 7560 8620 "GET /admin/myapp5/product/ HTTP/1.1" 200 8376
+INFO 2024-04-06 21:38:31,349 basehttp 7560 16988 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 9324
+INFO 2024-04-06 21:38:31,855 basehttp 7560 16988 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:38:32,527 basehttp 7560 8620 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 9324
+INFO 2024-04-06 21:38:40,549 basehttp 7560 16988 "GET /admin/myapp5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 3003
+INFO 2024-04-06 21:38:41,082 basehttp 7560 16988 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:38:41,746 basehttp 7560 8620 "GET /admin/myapp5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 3003
+INFO 2024-04-06 21:38:49,224 basehttp 7560 16988 "POST /admin/myapp5/category/add/?_to_field=id&_popup=1 HTTP/1.1" 200 403
+INFO 2024-04-06 21:38:49,243 basehttp 7560 16988 "GET /static/admin/js/popup_response.js HTTP/1.1" 200 551
+INFO 2024-04-06 21:38:56,143 basehttp 7560 16988 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:38:56,716 basehttp 7560 16988 "GET /admin/myapp5/product/ HTTP/1.1" 200 8795
+INFO 2024-04-06 21:38:57,274 basehttp 7560 16988 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:38:57,986 basehttp 7560 8620 "GET /admin/myapp5/product/ HTTP/1.1" 200 8585
+INFO 2024-04-06 21:39:09,249 basehttp 7560 16988 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 9369
+INFO 2024-04-06 21:39:09,696 basehttp 7560 16988 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:39:10,351 basehttp 7560 8620 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 9369
+INFO 2024-04-06 21:39:17,811 basehttp 7560 16988 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:39:18,534 basehttp 7560 16988 "GET /admin/myapp5/product/ HTTP/1.1" 200 9016
+INFO 2024-04-06 21:39:19,080 basehttp 7560 16988 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:39:21,384 basehttp 7560 16988 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 9369
+INFO 2024-04-06 21:39:22,021 basehttp 7560 16988 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:39:22,924 basehttp 7560 13560 "GET /admin/myapp5/product/add/ HTTP/1.1" 200 9369
+INFO 2024-04-06 21:39:32,687 basehttp 7560 16988 "POST /admin/myapp5/product/add/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:39:33,395 basehttp 7560 16988 "GET /admin/myapp5/product/ HTTP/1.1" 200 9231
+INFO 2024-04-06 21:39:33,921 basehttp 7560 16988 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:39:42,685 basehttp 7560 16988 "GET /admin/myapp5/product/1/change/ HTTP/1.1" 200 9615
+INFO 2024-04-06 21:39:43,196 basehttp 7560 16988 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:39:43,965 basehttp 7560 13560 "GET /admin/myapp5/product/1/change/ HTTP/1.1" 200 9615
+INFO 2024-04-06 21:39:48,476 basehttp 7560 16988 "GET /admin/myapp5/product/1/delete/ HTTP/1.1" 200 6939
+INFO 2024-04-06 21:39:48,505 basehttp 7560 16988 "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2024-04-06 21:39:49,194 basehttp 7560 13560 "GET /admin/myapp5/product/1/delete/ HTTP/1.1" 200 6939
+INFO 2024-04-06 21:39:54,535 basehttp 7560 13560 "GET /admin/myapp5/product/ HTTP/1.1" 200 9015
+INFO 2024-04-06 21:40:45,069 basehttp 7560 16988 "POST /admin/myapp5/product/1/delete/ HTTP/1.1" 302 0
+INFO 2024-04-06 21:40:45,779 basehttp 7560 16988 "GET /admin/myapp5/product/ HTTP/1.1" 200 8970
+INFO 2024-04-06 21:40:46,227 basehttp 7560 16988 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:41:06,854 basehttp 7560 13560 "GET /admin/myapp5/product/ HTTP/1.1" 200 8808
+INFO 2024-04-06 21:44:01,383 autoreload 7560 3212 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\models.py changed, reloading.
+INFO 2024-04-06 21:44:02,123 autoreload 188 8412 Watching for file changes with StatReloader
+INFO 2024-04-06 21:44:03,656 basehttp 188 10616 "GET /admin/myapp5/product/ HTTP/1.1" 200 8808
+INFO 2024-04-06 21:45:19,792 basehttp 188 8056 "GET /admin/myapp3/author/ HTTP/1.1" 200 9599
+INFO 2024-04-06 21:45:20,263 basehttp 188 8056 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:45:20,934 basehttp 188 10616 "GET /admin/myapp3/author/ HTTP/1.1" 200 9599
+INFO 2024-04-06 21:45:55,883 basehttp 188 8056 "GET /admin/myapp3/post/ HTTP/1.1" 200 18498
+INFO 2024-04-06 21:45:56,498 basehttp 188 8056 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:45:57,283 basehttp 188 10616 "GET /admin/myapp3/post/ HTTP/1.1" 200 18498
+INFO 2024-04-06 21:46:42,419 autoreload 188 8412 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp3\models.py changed, reloading.
+INFO 2024-04-06 21:46:43,003 autoreload 12736 18336 Watching for file changes with StatReloader
+INFO 2024-04-06 21:47:43,910 autoreload 7092 15124 Watching for file changes with StatReloader
+INFO 2024-04-06 21:47:48,927 basehttp 7092 14704 "GET /admin/myapp3/post/ HTTP/1.1" 200 20703
+INFO 2024-04-06 21:47:49,530 basehttp 7092 14704 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:47:52,365 basehttp 7092 8264 "GET /admin/myapp3/post/ HTTP/1.1" 200 20703
+INFO 2024-04-06 21:48:13,055 autoreload 7092 15124 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp3\models.py changed, reloading.
+INFO 2024-04-06 21:48:13,790 autoreload 8132 15460 Watching for file changes with StatReloader
+INFO 2024-04-06 21:48:19,868 basehttp 8132 19476 "GET /admin/myapp3/post/ HTTP/1.1" 200 19331
+INFO 2024-04-06 21:48:20,418 basehttp 8132 19476 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:48:23,323 basehttp 8132 18200 "GET /admin/myapp3/post/ HTTP/1.1" 200 19331
+INFO 2024-04-06 21:50:14,198 autoreload 8132 15460 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\models.py changed, reloading.
+INFO 2024-04-06 21:50:14,921 autoreload 3692 14212 Watching for file changes with StatReloader
+INFO 2024-04-06 21:57:02,083 autoreload 3692 14212 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\models.py changed, reloading.
+INFO 2024-04-06 21:57:02,804 autoreload 6468 7480 Watching for file changes with StatReloader
+INFO 2024-04-06 21:58:44,062 autoreload 5644 9272 Watching for file changes with StatReloader
+INFO 2024-04-06 21:58:46,214 basehttp 5644 4292 "GET /admin/ HTTP/1.1" 200 9034
+INFO 2024-04-06 21:58:46,296 basehttp 5644 4292 "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2024-04-06 21:58:46,996 basehttp 5644 8784 "GET /admin/ HTTP/1.1" 200 9034
+INFO 2024-04-06 21:58:57,027 basehttp 5644 4292 "GET /admin/myapp5/product/ HTTP/1.1" 200 8808
+INFO 2024-04-06 21:58:57,577 basehttp 5644 4292 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:58:58,263 basehttp 5644 8784 "GET /admin/myapp5/product/ HTTP/1.1" 200 8808
+INFO 2024-04-06 21:59:00,577 basehttp 5644 4292 "GET /admin/myapp5/product/5/change/ HTTP/1.1" 200 11591
+INFO 2024-04-06 21:59:01,034 basehttp 5644 4292 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:59:01,952 basehttp 5644 8784 "GET /admin/myapp5/product/5/change/ HTTP/1.1" 200 11591
+INFO 2024-04-06 21:59:24,002 basehttp 5644 4292 "GET /admin/myapp5/product/ HTTP/1.1" 200 8808
+INFO 2024-04-06 21:59:24,785 basehttp 5644 8784 "GET /admin/myapp5/product/ HTTP/1.1" 200 8808
+INFO 2024-04-06 21:59:26,729 basehttp 5644 4292 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 11591
+INFO 2024-04-06 21:59:27,191 basehttp 5644 4292 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:59:27,904 basehttp 5644 8784 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 11591
+INFO 2024-04-06 21:59:34,051 basehttp 5644 4292 "GET /admin/myapp5/category/2/change/?_to_field=id HTTP/1.1" 200 7918
+INFO 2024-04-06 21:59:34,516 basehttp 5644 4292 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 21:59:35,252 basehttp 5644 8784 "GET /admin/myapp5/category/2/change/?_to_field=id HTTP/1.1" 200 7918
+INFO 2024-04-06 21:59:38,600 basehttp 5644 4292 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 11591
+INFO 2024-04-06 21:59:39,298 basehttp 5644 8784 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 11591
+INFO 2024-04-06 22:02:54,084 autoreload 5644 9272 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:02:54,683 autoreload 8644 13944 Watching for file changes with StatReloader
+INFO 2024-04-06 22:03:18,132 basehttp 8644 7560 "GET /admin/myapp5/product/ HTTP/1.1" 200 9453
+INFO 2024-04-06 22:03:18,593 basehttp 8644 7560 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:03:19,214 basehttp 8644 16952 "GET /admin/myapp5/product/ HTTP/1.1" 200 9453
+INFO 2024-04-06 22:03:21,178 basehttp 8644 7560 "GET /admin/myapp5/product/?o=1 HTTP/1.1" 200 9889
+INFO 2024-04-06 22:03:21,732 basehttp 8644 7560 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:03:22,559 basehttp 8644 16952 "GET /admin/myapp5/product/?o=1 HTTP/1.1" 200 9889
+INFO 2024-04-06 22:03:22,724 basehttp 8644 7560 "GET /admin/myapp5/product/?o=-1 HTTP/1.1" 200 9896
+INFO 2024-04-06 22:03:23,185 basehttp 8644 7560 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:03:23,911 basehttp 8644 16952 "GET /admin/myapp5/product/?o=-1 HTTP/1.1" 200 9896
+INFO 2024-04-06 22:04:31,849 autoreload 8644 13944 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:04:32,561 autoreload 14860 12132 Watching for file changes with StatReloader
+INFO 2024-04-06 22:04:34,394 basehttp 14860 10588 "GET /admin/myapp5/product/?o=-1 HTTP/1.1" 200 9896
+INFO 2024-04-06 22:04:34,935 basehttp 14860 10588 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:04:35,769 basehttp 14860 9000 "GET /admin/myapp5/product/?o=-1 HTTP/1.1" 200 9896
+INFO 2024-04-06 22:04:49,737 basehttp 14860 10588 "GET /admin/myapp5/product/ HTTP/1.1" 200 10247
+INFO 2024-04-06 22:04:50,301 basehttp 14860 10588 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:04:50,911 basehttp 14860 9000 "GET /admin/myapp5/product/ HTTP/1.1" 200 10247
+INFO 2024-04-06 22:05:12,239 basehttp 14860 10588 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 11591
+INFO 2024-04-06 22:05:12,859 basehttp 14860 10588 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:05:13,759 basehttp 14860 9000 "GET /admin/myapp5/product/4/change/ HTTP/1.1" 200 11591
+INFO 2024-04-06 22:05:17,967 basehttp 14860 10588 "POST /admin/myapp5/product/4/change/ HTTP/1.1" 302 0
+INFO 2024-04-06 22:05:18,731 basehttp 14860 10588 "GET /admin/myapp5/product/ HTTP/1.1" 200 10465
+INFO 2024-04-06 22:05:19,202 basehttp 14860 10588 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:05:19,822 basehttp 14860 9000 "GET /admin/myapp5/product/ HTTP/1.1" 200 10247
+INFO 2024-04-06 22:06:20,879 autoreload 14860 12132 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:06:21,524 autoreload 15448 11212 Watching for file changes with StatReloader
+INFO 2024-04-06 22:06:29,631 basehttp 15448 5996 "GET /admin/myapp5/product/ HTTP/1.1" 200 11437
+INFO 2024-04-06 22:06:30,260 basehttp 15448 5996 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:06:31,150 basehttp 15448 7044 "GET /admin/myapp5/product/ HTTP/1.1" 200 11437
+INFO 2024-04-06 22:06:39,424 basehttp 15448 5996 "GET /admin/myapp5/product/?date_added__gte=2024-04-06+00%3A00%3A00%2B00%3A00&date_added__lt=2024-04-07+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 13249
+INFO 2024-04-06 22:06:39,878 basehttp 15448 5996 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:06:40,768 basehttp 15448 7044 "GET /admin/myapp5/product/?date_added__gte=2024-04-06+00%3A00%3A00%2B00%3A00&date_added__lt=2024-04-07+00%3A00%3A00%2B00%3A00 HTTP/1.1" 200 13249
+INFO 2024-04-06 22:06:42,697 basehttp 15448 5996 "GET /admin/myapp5/product/? HTTP/1.1" 200 11437
+INFO 2024-04-06 22:06:43,279 basehttp 15448 5996 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:06:44,044 basehttp 15448 7044 "GET /admin/myapp5/product/? HTTP/1.1" 200 11437
+INFO 2024-04-06 22:07:06,271 autoreload 15448 11212 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:07:07,047 autoreload 19540 19908 Watching for file changes with StatReloader
+INFO 2024-04-06 22:07:16,065 basehttp 19540 17508 "GET /admin/myapp5/product/? HTTP/1.1" 200 11880
+INFO 2024-04-06 22:07:16,532 basehttp 19540 17508 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:07:17,241 basehttp 19540 18760 "GET /admin/myapp5/product/? HTTP/1.1" 200 11880
+INFO 2024-04-06 22:08:12,640 basehttp 19540 17508 - Broken pipe from ('127.0.0.1', 49261)
+INFO 2024-04-06 22:08:12,658 basehttp 19540 14016 "GET /admin/myapp5/product/?price=999999.99 HTTP/1.1" 200 12454
+INFO 2024-04-06 22:08:13,223 basehttp 19540 14016 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:08:14,065 basehttp 19540 18760 "GET /admin/myapp5/product/?price=999999.99 HTTP/1.1" 200 12454
+INFO 2024-04-06 22:08:16,809 basehttp 19540 14016 "GET /admin/myapp5/product/?price=999999.99 HTTP/1.1" 200 12454
+INFO 2024-04-06 22:08:17,390 basehttp 19540 14016 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:08:18,046 basehttp 19540 18760 "GET /admin/myapp5/product/?price=999999.99 HTTP/1.1" 200 12454
+INFO 2024-04-06 22:08:19,253 basehttp 19540 14016 "GET /admin/myapp5/product/4/change/?_changelist_filters=price%3D999999.99 HTTP/1.1" 200 11715
+INFO 2024-04-06 22:08:19,754 basehttp 19540 14016 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:08:20,456 basehttp 19540 18760 "GET /admin/myapp5/product/4/change/?_changelist_filters=price%3D999999.99 HTTP/1.1" 200 11715
+INFO 2024-04-06 22:08:24,425 basehttp 19540 14016 "POST /admin/myapp5/product/4/change/?_changelist_filters=price%3D999999.99 HTTP/1.1" 302 0
+INFO 2024-04-06 22:08:25,785 basehttp 19540 14016 "GET /admin/myapp5/product/?price=999999.99 HTTP/1.1" 200 12330
+INFO 2024-04-06 22:08:26,333 basehttp 19540 14016 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:08:27,110 basehttp 19540 18760 "GET /admin/myapp5/product/?price=999999.99 HTTP/1.1" 200 12112
+INFO 2024-04-06 22:08:30,173 basehttp 19540 14016 "GET /admin/myapp5/product/?price=5464.00 HTTP/1.1" 200 11279
+INFO 2024-04-06 22:08:30,630 basehttp 19540 14016 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:08:31,357 basehttp 19540 18760 "GET /admin/myapp5/product/?price=5464.00 HTTP/1.1" 200 11279
+INFO 2024-04-06 22:08:33,033 basehttp 19540 14016 "GET /admin/myapp5/product/?price=999999.99 HTTP/1.1" 200 12112
+INFO 2024-04-06 22:08:33,537 basehttp 19540 14016 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:08:34,312 basehttp 19540 18760 "GET /admin/myapp5/product/?price=999999.99 HTTP/1.1" 200 12112
+INFO 2024-04-06 22:08:39,057 basehttp 19540 14016 "GET /admin/myapp5/product/? HTTP/1.1" 200 11938
+INFO 2024-04-06 22:08:39,517 basehttp 19540 14016 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:08:40,225 basehttp 19540 18760 "GET /admin/myapp5/product/? HTTP/1.1" 200 11938
+INFO 2024-04-06 22:09:40,732 autoreload 19540 19908 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:09:41,439 autoreload 2024 6432 Watching for file changes with StatReloader
+INFO 2024-04-06 22:09:44,798 basehttp 2024 8884 "GET /admin/myapp5/product/? HTTP/1.1" 200 12443
+INFO 2024-04-06 22:09:45,343 basehttp 2024 8884 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:09:46,169 basehttp 2024 8784 "GET /admin/myapp5/product/? HTTP/1.1" 200 12443
+INFO 2024-04-06 22:10:01,429 autoreload 2024 6432 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:10:02,174 autoreload 18360 14760 Watching for file changes with StatReloader
+INFO 2024-04-06 22:10:04,084 basehttp 18360 17788 "GET /admin/myapp5/product/? HTTP/1.1" 200 11938
+INFO 2024-04-06 22:10:04,552 basehttp 18360 17788 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:10:05,343 basehttp 18360 12884 "GET /admin/myapp5/product/? HTTP/1.1" 200 11938
+INFO 2024-04-06 22:10:20,105 autoreload 18360 14760 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:10:20,852 autoreload 13052 10264 Watching for file changes with StatReloader
+INFO 2024-04-06 22:10:25,332 basehttp 13052 16860 "GET /admin/myapp5/product/? HTTP/1.1" 200 12443
+INFO 2024-04-06 22:10:25,841 basehttp 13052 16860 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:10:26,784 basehttp 13052 14184 "GET /admin/myapp5/product/? HTTP/1.1" 200 12443
+INFO 2024-04-06 22:10:47,191 basehttp 13052 16860 "GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 11583
+INFO 2024-04-06 22:10:47,651 basehttp 13052 16860 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:10:48,479 basehttp 13052 14184 "GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 11583
+INFO 2024-04-06 22:10:58,050 basehttp 13052 16860 "POST /admin/myapp5/product/2/change/ HTTP/1.1" 302 0
+INFO 2024-04-06 22:10:58,860 basehttp 13052 16860 "GET /admin/myapp5/product/ HTTP/1.1" 200 12659
+INFO 2024-04-06 22:10:59,323 basehttp 13052 16860 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:11:00,010 basehttp 13052 14184 "GET /admin/myapp5/product/ HTTP/1.1" 200 12443
+INFO 2024-04-06 22:11:02,927 basehttp 13052 16860 "GET /admin/myapp5/product/5/change/ HTTP/1.1" 200 11591
+INFO 2024-04-06 22:11:03,465 basehttp 13052 16860 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:11:04,383 basehttp 13052 14184 "GET /admin/myapp5/product/5/change/ HTTP/1.1" 200 11591
+INFO 2024-04-06 22:11:13,580 basehttp 13052 16860 "POST /admin/myapp5/product/5/change/ HTTP/1.1" 302 0
+INFO 2024-04-06 22:11:14,342 basehttp 13052 16860 "GET /admin/myapp5/product/ HTTP/1.1" 200 12661
+INFO 2024-04-06 22:11:14,804 basehttp 13052 16860 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:11:15,604 basehttp 13052 14184 "GET /admin/myapp5/product/ HTTP/1.1" 200 12443
+INFO 2024-04-06 22:11:20,447 basehttp 13052 16860 "GET /admin/myapp5/product/?q=%D0%B2%D0%BA%D1%83%D1%81 HTTP/1.1" 200 12076
+INFO 2024-04-06 22:11:20,985 basehttp 13052 16860 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:11:21,705 basehttp 13052 14184 "GET /admin/myapp5/product/?q=%D0%B2%D0%BA%D1%83%D1%81 HTTP/1.1" 200 12076
+INFO 2024-04-06 22:11:47,672 basehttp 13052 16860 "GET /admin/myapp5/product/?q=%D0%B2%D0%BA%D1%83%D1%81 HTTP/1.1" 200 12076
+INFO 2024-04-06 22:11:48,287 basehttp 13052 16860 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:11:49,143 basehttp 13052 14184 "GET /admin/myapp5/product/?q=%D0%B2%D0%BA%D1%83%D1%81 HTTP/1.1" 200 12076
+INFO 2024-04-06 22:11:54,648 basehttp 13052 16860 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12676
+INFO 2024-04-06 22:11:55,103 basehttp 13052 16860 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:11:55,839 basehttp 13052 14184 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12676
+INFO 2024-04-06 22:13:18,985 autoreload 13052 10264 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:13:19,852 autoreload 5992 9668 Watching for file changes with StatReloader
+INFO 2024-04-06 22:13:21,513 basehttp 5992 16364 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12676
+INFO 2024-04-06 22:13:22,057 basehttp 5992 16364 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:13:22,888 basehttp 5992 13636 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12676
+INFO 2024-04-06 22:14:30,207 autoreload 5992 9668 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:14:30,985 autoreload 3984 16808 Watching for file changes with StatReloader
+INFO 2024-04-06 22:14:38,171 basehttp 3984 3148 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12676
+INFO 2024-04-06 22:14:38,766 basehttp 3984 3148 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:14:39,626 basehttp 3984 12940 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12676
+INFO 2024-04-06 22:15:51,791 autoreload 3984 16808 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:15:52,526 autoreload 13772 8224 Watching for file changes with StatReloader
+INFO 2024-04-06 22:15:56,201 basehttp 13772 19072 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12793
+INFO 2024-04-06 22:15:56,761 basehttp 13772 19072 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:15:57,539 basehttp 13772 7360 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12793
+INFO 2024-04-06 22:16:03,877 basehttp 13772 19072 "POST /admin/myapp5/product/?q= HTTP/1.1" 302 0
+INFO 2024-04-06 22:16:04,573 basehttp 13772 19072 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 13063
+INFO 2024-04-06 22:16:05,182 basehttp 13772 19072 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:16:05,235 basehttp 13772 19072 "GET /static/admin/img/icon-alert.svg HTTP/1.1" 200 504
+INFO 2024-04-06 22:16:05,848 basehttp 13772 7360 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12793
+INFO 2024-04-06 22:16:17,172 basehttp 13772 19072 "POST /admin/myapp5/product/?q= HTTP/1.1" 302 0
+INFO 2024-04-06 22:16:17,865 basehttp 13772 19072 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12797
+INFO 2024-04-06 22:16:18,443 basehttp 13772 19072 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:16:19,615 basehttp 13772 7360 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12797
+INFO 2024-04-06 22:16:42,506 autoreload 13772 8224 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:16:43,292 autoreload 8148 11592 Watching for file changes with StatReloader
+INFO 2024-04-06 22:18:39,212 autoreload 8148 11592 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:18:39,961 autoreload 1912 12356 Watching for file changes with StatReloader
+INFO 2024-04-06 22:19:16,129 autoreload 1912 12356 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:19:16,888 autoreload 3776 932 Watching for file changes with StatReloader
+INFO 2024-04-06 22:19:22,989 basehttp 3776 8868 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12886
+INFO 2024-04-06 22:19:23,495 basehttp 3776 8868 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:19:24,213 basehttp 3776 13492 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12886
+INFO 2024-04-06 22:19:27,082 basehttp 3776 8868 "POST /admin/myapp5/product/?q= HTTP/1.1" 302 0
+INFO 2024-04-06 22:19:27,962 basehttp 3776 8868 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 13156
+INFO 2024-04-06 22:19:28,508 basehttp 3776 8868 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:19:29,391 basehttp 3776 13492 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12886
+INFO 2024-04-06 22:19:34,725 basehttp 3776 8868 "POST /admin/myapp5/product/?q= HTTP/1.1" 302 0
+INFO 2024-04-06 22:19:35,341 basehttp 3776 8868 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12882
+INFO 2024-04-06 22:19:35,801 basehttp 3776 8868 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:19:36,450 basehttp 3776 13492 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12882
+INFO 2024-04-06 22:19:40,587 basehttp 3776 8868 "POST /admin/myapp5/product/?q= HTTP/1.1" 302 0
+INFO 2024-04-06 22:19:41,324 basehttp 3776 8868 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12886
+INFO 2024-04-06 22:19:41,850 basehttp 3776 8868 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:19:42,793 basehttp 3776 13492 "GET /admin/myapp5/product/?q= HTTP/1.1" 200 12886
+INFO 2024-04-06 22:21:41,193 basehttp 3776 8868 "GET /admin/myapp5/product/2/change/?_changelist_filters=q%3D HTTP/1.1" 200 11698
+INFO 2024-04-06 22:21:41,741 basehttp 3776 8868 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:21:42,649 basehttp 3776 13492 "GET /admin/myapp5/product/2/change/?_changelist_filters=q%3D HTTP/1.1" 200 11698
+INFO 2024-04-06 22:21:58,119 basehttp 3776 8868 "POST /admin/myapp5/product/2/change/?_changelist_filters=q%3D HTTP/1.1" 302 0
+INFO 2024-04-06 22:21:58,825 basehttp 3776 8868 "GET /admin/myapp5/product/ HTTP/1.1" 200 12869
+INFO 2024-04-06 22:21:59,393 basehttp 3776 8868 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:22:00,180 basehttp 3776 13492 "GET /admin/myapp5/product/ HTTP/1.1" 200 12653
+INFO 2024-04-06 22:24:22,985 autoreload 3776 932 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:24:23,581 autoreload 12120 18092 Watching for file changes with StatReloader
+INFO 2024-04-06 22:25:14,191 autoreload 12120 18092 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:25:15,078 autoreload 14060 2748 Watching for file changes with StatReloader
+INFO 2024-04-06 22:25:33,855 autoreload 14060 2748 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:25:34,501 autoreload 14748 19244 Watching for file changes with StatReloader
+INFO 2024-04-06 22:26:29,117 autoreload 14748 19244 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:26:29,796 autoreload 5436 19740 Watching for file changes with StatReloader
+INFO 2024-04-06 22:31:43,971 autoreload 5436 19740 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:31:44,648 autoreload 4500 2608 Watching for file changes with StatReloader
+INFO 2024-04-06 22:32:55,834 autoreload 4500 2608 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:32:56,553 autoreload 16768 19736 Watching for file changes with StatReloader
+INFO 2024-04-06 22:33:39,623 basehttp 16768 9676 "GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 10975
+INFO 2024-04-06 22:33:40,087 basehttp 16768 9676 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:33:40,943 basehttp 16768 13872 "GET /admin/myapp5/product/2/change/ HTTP/1.1" 200 10975
+INFO 2024-04-06 22:34:05,487 basehttp 16768 9676 "POST /admin/myapp5/product/2/change/ HTTP/1.1" 302 0
+INFO 2024-04-06 22:34:06,265 basehttp 16768 9676 "GET /admin/myapp5/product/ HTTP/1.1" 200 12727
+INFO 2024-04-06 22:34:06,860 basehttp 16768 9676 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:34:07,641 basehttp 16768 13872 "GET /admin/myapp5/product/ HTTP/1.1" 200 12511
+INFO 2024-04-06 22:34:10,301 basehttp 16768 9676 "GET /admin/myapp5/product/3/change/ HTTP/1.1" 200 10930
+INFO 2024-04-06 22:34:10,768 basehttp 16768 9676 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:34:11,651 basehttp 16768 13872 "GET /admin/myapp5/product/3/change/ HTTP/1.1" 200 10930
+INFO 2024-04-06 22:36:41,034 autoreload 16768 19736 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:36:41,738 autoreload 2024 9192 Watching for file changes with StatReloader
+INFO 2024-04-06 22:37:19,789 autoreload 2024 9192 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:37:20,410 autoreload 15240 14152 Watching for file changes with StatReloader
+INFO 2024-04-06 22:38:06,620 autoreload 15240 14152 C:\Users\vovar\PycharmProjects\Django\DJ1\myproject\myapp5\admin.py changed, reloading.
+INFO 2024-04-06 22:38:07,291 autoreload 8668 10316 Watching for file changes with StatReloader
+INFO 2024-04-06 22:38:10,177 basehttp 8668 12836 "GET / HTTP/1.1" 200 300
+INFO 2024-04-06 22:38:17,582 basehttp 8668 16848 "GET /admin/myapp5/product/3/change/ HTTP/1.1" 200 12555
+INFO 2024-04-06 22:38:17,642 basehttp 8668 16848 "GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+INFO 2024-04-06 22:38:18,157 basehttp 8668 11964 "GET /admin/jsi18n/ HTTP/1.1" 200 16066
+INFO 2024-04-06 22:38:19,087 basehttp 8668 12708 "GET /admin/myapp5/product/3/change/ HTTP/1.1" 200 12555

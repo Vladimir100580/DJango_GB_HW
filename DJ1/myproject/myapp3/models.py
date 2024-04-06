@@ -14,7 +14,7 @@ class Post(models.Model):
     author = models.ForeignKey(Author, on_delete=models.CASCADE)
 
     def __str__(self):
-        return f'Title is {self.title}'
+        return f'Title is {self.title}, Autor: {self.author.name}'
 
     def get_summary(self):
         words = self.content.split()
