@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from .models import User, Order
 from datetime import date, timedelta
 
@@ -18,4 +18,7 @@ def user_products(request, user_id, days=0):
     user = User.objects.get(pk=user_id)
     return render(request, 'gb_app3/products_list.html', {'orders': orders, 'user': user, 'days': str_d})
 
+
+def index(request):
+    return render(request, 'gb_app3/index.html')
 

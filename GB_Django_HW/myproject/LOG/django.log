@@ -2168,3 +2168,768 @@ INFO 2024-04-07 00:20:51,113 autoreload 12444 5980 C:\Users\vovar\PycharmProject
 INFO 2024-04-07 00:20:51,798 autoreload 13896 15780 Watching for file changes with StatReloader
 INFO 2024-04-07 00:21:20,829 autoreload 13896 15780 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app5\models.py changed, reloading.
 INFO 2024-04-07 00:21:21,616 autoreload 9572 2820 Watching for file changes with StatReloader
+INFO 2024-04-07 21:02:09,230 autoreload 13240 8216 Watching for file changes with StatReloader
+INFO 2024-04-07 21:02:11,303 basehttp 13240 2308 "GET / HTTP/1.1" 200 726
+WARNING 2024-04-07 21:02:11,509 log 13240 2308 Not Found: /favicon.ico
+WARNING 2024-04-07 21:02:11,509 basehttp 13240 2308 "GET /favicon.ico HTTP/1.1" 404 2651
+INFO 2024-04-07 21:02:17,649 basehttp 13240 2308 "GET /users/ HTTP/1.1" 200 2934
+INFO 2024-04-07 21:02:24,493 basehttp 13240 2308 "GET /user/9/0 HTTP/1.1" 200 2349
+INFO 2024-04-07 21:02:32,137 basehttp 13240 2308 "GET /user/9/7 HTTP/1.1" 200 1083
+INFO 2024-04-07 21:02:39,025 basehttp 13240 2308 "GET /user/9/30 HTTP/1.1" 200 1084
+INFO 2024-04-07 21:02:40,753 basehttp 13240 2308 "GET /user/9/365 HTTP/1.1" 200 1085
+INFO 2024-04-07 21:02:42,364 basehttp 13240 2308 "GET /user/9/0 HTTP/1.1" 200 2349
+INFO 2024-04-07 21:06:28,521 autoreload 10584 9676 Watching for file changes with StatReloader
+INFO 2024-04-07 21:09:22,549 autoreload 19092 2380 Watching for file changes with StatReloader
+INFO 2024-04-07 21:09:24,839 basehttp 19092 19068 "GET / HTTP/1.1" 200 726
+INFO 2024-04-07 21:09:27,676 basehttp 19092 19068 "GET /users/ HTTP/1.1" 200 4311
+INFO 2024-04-07 21:09:33,259 basehttp 19092 19068 "GET /user/21/0 HTTP/1.1" 200 3976
+INFO 2024-04-07 21:09:37,549 basehttp 19092 19068 "GET /user/21/365 HTTP/1.1" 200 3990
+INFO 2024-04-07 21:09:44,539 basehttp 19092 19068 "GET /user/21/0 HTTP/1.1" 200 3976
+INFO 2024-04-07 21:09:49,290 basehttp 19092 19068 "GET /user/21/30 HTTP/1.1" 200 1086
+INFO 2024-04-07 21:09:55,864 basehttp 19092 19068 "GET /user/21/0 HTTP/1.1" 200 3976
+INFO 2024-04-07 21:11:09,155 basehttp 19092 19068 "GET /user/21/0 HTTP/1.1" 200 4059
+INFO 2024-04-07 21:11:10,806 basehttp 19092 19068 "GET /users/ HTTP/1.1" 200 4311
+INFO 2024-04-07 21:11:14,323 basehttp 19092 19068 "GET /user/18/0 HTTP/1.1" 200 1916
+INFO 2024-04-07 21:11:16,924 basehttp 19092 19068 "GET /users/ HTTP/1.1" 200 4311
+INFO 2024-04-07 21:11:19,117 basehttp 19092 19068 "GET /user/23/0 HTTP/1.1" 200 2244
+INFO 2024-04-07 21:11:30,006 basehttp 19092 19068 "GET /user/23/365 HTTP/1.1" 200 2258
+INFO 2024-04-07 21:11:32,499 basehttp 19092 19068 "GET /user/23/30 HTTP/1.1" 200 1169
+INFO 2024-04-07 21:11:38,884 basehttp 19092 19068 "GET /user/23/0 HTTP/1.1" 200 2244
+INFO 2024-04-07 21:11:47,647 basehttp 19092 19068 "GET /users/ HTTP/1.1" 200 4311
+INFO 2024-04-07 21:11:52,373 basehttp 19092 19068 "GET /user/22/0 HTTP/1.1" 200 3665
+INFO 2024-04-07 21:12:07,236 basehttp 19092 19068 "GET /users/ HTTP/1.1" 200 4311
+INFO 2024-04-07 21:12:09,022 basehttp 19092 19068 "GET /user/24/0 HTTP/1.1" 200 3326
+INFO 2024-04-07 21:20:40,178 autoreload 16252 6752 Watching for file changes with StatReloader
+INFO 2024-04-07 21:20:42,219 basehttp 16252 20324 "GET / HTTP/1.1" 200 726
+INFO 2024-04-07 21:20:43,840 basehttp 16252 20324 "GET /users/ HTTP/1.1" 200 5073
+INFO 2024-04-07 21:20:47,798 basehttp 16252 20324 "GET /user/28/0 HTTP/1.1" 200 3869
+INFO 2024-04-07 21:20:51,803 basehttp 16252 20324 "GET /user/28/365 HTTP/1.1" 200 3177
+INFO 2024-04-07 21:20:54,748 basehttp 16252 20324 "GET /user/28/30 HTTP/1.1" 200 2628
+INFO 2024-04-07 21:20:58,136 basehttp 16252 20324 "GET /user/28/7 HTTP/1.1" 200 2627
+INFO 2024-04-07 21:21:02,274 basehttp 16252 20324 "GET /users/ HTTP/1.1" 200 5073
+INFO 2024-04-07 21:21:05,072 basehttp 16252 20324 "GET /user/29/0 HTTP/1.1" 200 4517
+INFO 2024-04-07 21:21:06,957 basehttp 16252 20324 "GET /user/29/7 HTTP/1.1" 200 2575
+INFO 2024-04-07 21:21:09,156 basehttp 16252 20324 "GET /user/29/30 HTTP/1.1" 200 3106
+INFO 2024-04-07 21:21:11,176 basehttp 16252 20324 "GET /user/29/365 HTTP/1.1" 200 3986
+INFO 2024-04-07 21:21:13,829 basehttp 16252 20324 "GET /user/29/0 HTTP/1.1" 200 4517
+INFO 2024-04-07 21:24:43,624 autoreload 2272 18840 Watching for file changes with StatReloader
+INFO 2024-04-07 21:24:46,651 basehttp 2272 11980 "GET / HTTP/1.1" 200 726
+INFO 2024-04-07 21:24:48,271 basehttp 2272 11980 "GET /users/ HTTP/1.1" 200 5127
+INFO 2024-04-07 21:24:55,472 basehttp 2272 11980 "GET / HTTP/1.1" 200 726
+INFO 2024-04-07 21:25:38,155 basehttp 2272 11980 "GET /users/ HTTP/1.1" 200 5137
+INFO 2024-04-07 21:25:41,460 basehttp 2272 11980 "GET / HTTP/1.1" 200 726
+ERROR 2024-04-07 21:29:39,165 log 2272 11980 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py", line 23, in index
+    return render(request, 'gb_app3/index.html')
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'all_products' not found. 'all_products' is not a valid view function or pattern name.
+ERROR 2024-04-07 21:29:39,179 basehttp 2272 11980 "GET / HTTP/1.1" 500 157597
+INFO 2024-04-07 21:39:27,959 autoreload 2272 18840 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-07 21:39:28,687 autoreload 6136 9416 Watching for file changes with StatReloader
+ERROR 2024-04-07 21:39:31,021 log 6136 13708 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py", line 23, in index
+    return render(request, 'gb_app3/index.html')
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\defaulttags.py", line 1372, in url
+    viewname = parser.compile_filter(bits[1])
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 703, in __init__
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '/'all_products'' from 'les4/'all_products''
+ERROR 2024-04-07 21:39:31,024 basehttp 6136 13708 "GET / HTTP/1.1" 500 173536
+INFO 2024-04-07 21:47:57,592 autoreload 6136 9416 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-07 21:47:58,273 autoreload 4468 6580 Watching for file changes with StatReloader
+ERROR 2024-04-07 22:22:38,639 log 4468 6772 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py", line 23, in index
+    return render(request, 'gb_app3/index.html')
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'redir4' not found. 'redir4' is not a valid view function or pattern name.
+ERROR 2024-04-07 22:22:38,646 basehttp 4468 6772 "GET / HTTP/1.1" 500 157800
+INFO 2024-04-07 22:22:38,809 autoreload 4468 6580 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\urls.py changed, reloading.
+INFO 2024-04-07 22:22:39,490 autoreload 3564 10736 Watching for file changes with StatReloader
+INFO 2024-04-07 22:23:08,393 autoreload 3564 10736 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py changed, reloading.
+INFO 2024-04-07 22:23:09,113 autoreload 19692 4840 Watching for file changes with StatReloader
+INFO 2024-04-07 22:23:09,946 basehttp 19692 13336 "GET / HTTP/1.1" 200 818
+ERROR 2024-04-07 22:23:13,629 log 19692 13336 Internal Server Error: /redir4
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py", line 27, in redir4
+    return redirect('all_products')
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'all_products' not found. 'all_products' is not a valid view function or pattern name.
+ERROR 2024-04-07 22:23:13,629 basehttp 19692 13336 "GET /redir4 HTTP/1.1" 500 84801
+INFO 2024-04-07 22:24:08,845 autoreload 19692 4840 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py changed, reloading.
+INFO 2024-04-07 22:24:09,504 autoreload 11232 7384 Watching for file changes with StatReloader
+INFO 2024-04-07 22:24:10,235 basehttp 11232 10748 "GET /redir4 HTTP/1.1" 302 0
+INFO 2024-04-07 22:24:10,821 basehttp 11232 10748 "GET /users/ HTTP/1.1" 200 5137
+INFO 2024-04-07 22:24:17,221 basehttp 11232 10748 "GET / HTTP/1.1" 200 818
+INFO 2024-04-07 22:24:18,508 basehttp 11232 10748 "GET /redir4 HTTP/1.1" 302 0
+INFO 2024-04-07 22:24:18,956 basehttp 11232 10748 "GET /users/ HTTP/1.1" 200 5137
+INFO 2024-04-07 22:25:21,317 autoreload 11232 7384 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-07 22:25:22,000 autoreload 18120 17916 Watching for file changes with StatReloader
+INFO 2024-04-07 22:25:53,326 autoreload 18048 10308 Watching for file changes with StatReloader
+INFO 2024-04-07 22:25:55,004 basehttp 18048 972 "GET / HTTP/1.1" 200 818
+INFO 2024-04-07 22:26:03,468 basehttp 18048 972 "GET /les4 HTTP/1.1" 301 0
+INFO 2024-04-07 22:26:03,871 basehttp 18048 972 "GET /les4/ HTTP/1.1" 200 2321
+WARNING 2024-04-07 22:26:03,935 log 18048 4640 Not Found: /media/apple.jpeg
+WARNING 2024-04-07 22:26:03,937 log 18048 14120 Not Found: /media/book.png
+WARNING 2024-04-07 22:26:03,939 log 18048 9864 Not Found: /media/telek.jpg
+WARNING 2024-04-07 22:26:03,940 log 18048 9940 Not Found: /media/banaas.jpg
+WARNING 2024-04-07 22:26:03,941 log 18048 972 Not Found: /media/note_book.jpg
+WARNING 2024-04-07 22:26:03,941 basehttp 18048 4640 "GET /media/apple.jpeg HTTP/1.1" 404 2939
+WARNING 2024-04-07 22:26:03,942 basehttp 18048 9864 "GET /media/telek.jpg HTTP/1.1" 404 2936
+WARNING 2024-04-07 22:26:03,942 basehttp 18048 14120 "GET /media/book.png HTTP/1.1" 404 2933
+WARNING 2024-04-07 22:26:03,943 basehttp 18048 9940 "GET /media/banaas.jpg HTTP/1.1" 404 2939
+WARNING 2024-04-07 22:26:03,944 basehttp 18048 972 "GET /media/note_book.jpg HTTP/1.1" 404 2948
+INFO 2024-04-07 22:26:16,025 basehttp 18048 972 "GET /les4/add_prod_picture/1/ HTTP/1.1" 200 1353
+WARNING 2024-04-07 22:26:16,052 log 18048 972 Not Found: /media/note_book.jpg
+WARNING 2024-04-07 22:26:16,052 basehttp 18048 972 "GET /media/note_book.jpg HTTP/1.1" 404 2948
+INFO 2024-04-07 22:26:30,854 basehttp 18048 972 "GET /redir4 HTTP/1.1" 302 0
+INFO 2024-04-07 22:26:31,239 basehttp 18048 972 "GET /users/ HTTP/1.1" 200 5137
+INFO 2024-04-07 22:27:05,479 autoreload 18048 10308 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py changed, reloading.
+INFO 2024-04-07 22:27:06,275 autoreload 20288 5048 Watching for file changes with StatReloader
+INFO 2024-04-07 22:27:07,028 basehttp 20288 1136 "GET / HTTP/1.1" 200 818
+ERROR 2024-04-07 22:27:08,698 log 20288 1136 Internal Server Error: /redir4
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py", line 27, in redir4
+    return redirect('les4')
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'les4' not found. 'les4' is not a valid view function or pattern name.
+ERROR 2024-04-07 22:27:08,701 basehttp 20288 1136 "GET /redir4 HTTP/1.1" 500 84657
+INFO 2024-04-07 22:27:59,858 autoreload 20288 5048 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\urls.py changed, reloading.
+INFO 2024-04-07 22:28:00,539 autoreload 1960 10200 Watching for file changes with StatReloader
+WARNING 2024-04-07 22:28:01,388 log 1960 1392 Not Found: /redir4
+WARNING 2024-04-07 22:28:01,388 basehttp 1960 1392 "GET /redir4 HTTP/1.1" 404 2908
+INFO 2024-04-07 22:28:08,923 basehttp 1960 1392 "GET / HTTP/1.1" 200 817
+ERROR 2024-04-07 22:28:10,717 log 1960 1392 Internal Server Error: /les4/
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py", line 27, in redir4
+    return redirect('les4')
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'les4' not found. 'les4' is not a valid view function or pattern name.
+ERROR 2024-04-07 22:28:10,717 basehttp 1960 1392 "GET /les4/ HTTP/1.1" 500 84647
+ERROR 2024-04-07 22:28:20,403 log 1960 1392 Internal Server Error: /les4/
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py", line 27, in redir4
+    return redirect('les4')
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'les4' not found. 'les4' is not a valid view function or pattern name.
+ERROR 2024-04-07 22:28:20,404 basehttp 1960 1392 "GET /les4/ HTTP/1.1" 500 84633
+INFO 2024-04-07 22:28:24,977 basehttp 1960 1392 "GET / HTTP/1.1" 200 817
+ERROR 2024-04-07 22:28:35,486 log 1960 1392 Internal Server Error: /les4/
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py", line 27, in redir4
+    return redirect('les4')
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'les4' not found. 'les4' is not a valid view function or pattern name.
+ERROR 2024-04-07 22:28:35,488 basehttp 1960 1392 "GET /les4/ HTTP/1.1" 500 84496
+INFO 2024-04-07 22:32:02,117 autoreload 1960 10200 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\urls.py changed, reloading.
+INFO 2024-04-07 22:32:02,904 autoreload 15792 12096 Watching for file changes with StatReloader
+ERROR 2024-04-07 22:32:05,160 log 15792 9404 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py", line 23, in index
+    return render(request, 'gb_app3/index.html')
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'redir4' not found. 'redir4' is not a valid view function or pattern name.
+ERROR 2024-04-07 22:32:05,161 basehttp 15792 9404 "GET / HTTP/1.1" 500 157792
+INFO 2024-04-07 22:34:49,873 autoreload 15792 12096 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-07 22:34:50,501 autoreload 12452 11024 Watching for file changes with StatReloader
+ERROR 2024-04-07 22:34:53,380 log 12452 12692 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py", line 23, in index
+    return render(request, 'gb_app3/index.html')
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'redir4' not found. 'redir4' is not a valid view function or pattern name.
+ERROR 2024-04-07 22:34:53,380 basehttp 12452 12692 "GET / HTTP/1.1" 500 157792
+INFO 2024-04-07 22:36:59,358 autoreload 11748 8544 Watching for file changes with StatReloader
+ERROR 2024-04-07 22:37:02,752 log 11748 14692 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py", line 23, in index
+    return render(request, 'gb_app3/index.html')
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '/les4' not found. '/les4' is not a valid view function or pattern name.
+ERROR 2024-04-07 22:37:02,755 basehttp 11748 14692 "GET / HTTP/1.1" 500 157765
+INFO 2024-04-07 22:39:09,068 basehttp 11748 14692 "GET / HTTP/1.1" 200 727
+INFO 2024-04-07 22:39:20,187 basehttp 11748 14692 "GET /les4/ HTTP/1.1" 200 2321
+WARNING 2024-04-07 22:39:20,230 log 11748 14692 Not Found: /media/note_book.jpg
+WARNING 2024-04-07 22:39:20,233 log 11748 6988 Not Found: /media/telek.jpg
+WARNING 2024-04-07 22:39:20,237 basehttp 11748 14692 "GET /media/note_book.jpg HTTP/1.1" 404 2827
+WARNING 2024-04-07 22:39:20,239 log 11748 12708 Not Found: /media/book.png
+WARNING 2024-04-07 22:39:20,239 basehttp 11748 6988 "GET /media/telek.jpg HTTP/1.1" 404 2815
+WARNING 2024-04-07 22:39:20,242 log 11748 1280 Not Found: /media/banaas.jpg
+WARNING 2024-04-07 22:39:20,243 log 11748 19516 Not Found: /media/apple.jpeg
+WARNING 2024-04-07 22:39:20,243 basehttp 11748 12708 "GET /media/book.png HTTP/1.1" 404 2812
+WARNING 2024-04-07 22:39:20,245 basehttp 11748 1280 "GET /media/banaas.jpg HTTP/1.1" 404 2818
+WARNING 2024-04-07 22:39:20,245 basehttp 11748 19516 "GET /media/apple.jpeg HTTP/1.1" 404 2818
+INFO 2024-04-07 22:39:24,681 basehttp 11748 19516 "GET /les4/add_prod_picture/2/ HTTP/1.1" 200 1351
+WARNING 2024-04-07 22:39:24,712 log 11748 19516 Not Found: /media/telek.jpg
+WARNING 2024-04-07 22:39:24,713 basehttp 11748 19516 "GET /media/telek.jpg HTTP/1.1" 404 2815
+INFO 2024-04-07 22:39:33,858 basehttp 11748 19516 "POST /les4/add_prod_picture/2/ HTTP/1.1" 200 1358
+WARNING 2024-04-07 22:39:33,897 log 11748 19516 Not Found: /media/book_gTNZpdH.png
+WARNING 2024-04-07 22:39:33,898 basehttp 11748 19516 "GET /media/book_gTNZpdH.png HTTP/1.1" 404 2836
+INFO 2024-04-07 22:40:52,867 autoreload 11748 8544 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-07 22:40:53,518 autoreload 13244 10268 Watching for file changes with StatReloader
+INFO 2024-04-07 22:41:48,736 basehttp 13244 3472 "GET / HTTP/1.1" 200 2298
+INFO 2024-04-07 22:41:48,851 basehttp 13244 3472 "GET /media/note_book.jpg HTTP/1.1" 200 294723
+INFO 2024-04-07 22:41:48,903 basehttp 13244 6720 "GET /media/book_gTNZpdH.png HTTP/1.1" 200 464866
+INFO 2024-04-07 22:41:48,903 basehttp 13244 10796 "GET /media/banaas.jpg HTTP/1.1" 200 206640
+INFO 2024-04-07 22:41:48,905 basehttp 13244 19332 "GET /media/book.png HTTP/1.1" 200 464866
+INFO 2024-04-07 22:41:48,924 basehttp 13244 11508 "GET /media/apple.jpeg HTTP/1.1" 200 1295717
+INFO 2024-04-07 22:42:02,485 basehttp 13244 11508 "GET /add_prod_picture/2/ HTTP/1.1" 200 1353
+INFO 2024-04-07 22:42:02,522 basehttp 13244 11508 "GET /media/book_gTNZpdH.png HTTP/1.1" 304 0
+INFO 2024-04-07 22:42:11,167 basehttp 13244 11508 "POST /add_prod_picture/2/ HTTP/1.1" 200 1354
+INFO 2024-04-07 22:42:11,199 basehttp 13244 11508 "GET /media/telek_7SBGzjT.jpg HTTP/1.1" 200 73982
+INFO 2024-04-07 22:42:13,496 basehttp 13244 11508 "GET / HTTP/1.1" 200 2299
+INFO 2024-04-07 22:42:13,532 basehttp 13244 11508 "GET /media/telek_7SBGzjT.jpg HTTP/1.1" 304 0
+INFO 2024-04-07 22:43:57,181 autoreload 13244 10268 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\myproject\urls.py changed, reloading.
+INFO 2024-04-07 22:43:57,794 autoreload 7304 2656 Watching for file changes with StatReloader
+INFO 2024-04-07 22:44:07,892 basehttp 7304 10536 "GET /les3/ HTTP/1.1" 200 732
+INFO 2024-04-07 22:44:11,192 basehttp 7304 10536 "GET /les3/users/ HTTP/1.1" 200 5287
+INFO 2024-04-07 22:44:14,731 basehttp 7304 10536 "GET /les3/user/28/0 HTTP/1.1" 200 3894
+INFO 2024-04-07 22:44:17,429 basehttp 7304 10536 "GET /les3/user/28/30 HTTP/1.1" 200 2653
+INFO 2024-04-07 22:44:19,900 basehttp 7304 10536 "GET /les3/user/28/7 HTTP/1.1" 200 2652
+INFO 2024-04-07 22:44:22,281 basehttp 7304 10536 "GET /les3/user/28/30 HTTP/1.1" 200 2653
+INFO 2024-04-07 22:44:24,957 basehttp 7304 10536 "GET /les3/users/ HTTP/1.1" 200 5287
+INFO 2024-04-07 22:44:28,196 basehttp 7304 10536 "GET /les3/user/27/0 HTTP/1.1" 200 2441
+INFO 2024-04-07 22:44:30,980 basehttp 7304 10536 "GET /les3/user/27/7 HTTP/1.1" 200 2069
+INFO 2024-04-07 22:44:33,016 basehttp 7304 10536 "GET /les3/user/27/365 HTTP/1.1" 200 2263
+INFO 2024-04-07 22:44:35,246 basehttp 7304 10536 "GET /les3/users/ HTTP/1.1" 200 5287
+INFO 2024-04-07 22:44:38,183 basehttp 7304 10536 "GET /les3/user/29/0 HTTP/1.1" 200 4542
+INFO 2024-04-07 22:44:41,224 basehttp 7304 10536 "GET /les3/user/29/7 HTTP/1.1" 200 2600
+INFO 2024-04-07 22:44:43,563 basehttp 7304 10536 "GET /les3/user/29/30 HTTP/1.1" 200 3131
+INFO 2024-04-07 22:44:45,510 basehttp 7304 10536 "GET /les3/user/29/365 HTTP/1.1" 200 4011
+INFO 2024-04-07 22:44:48,550 basehttp 7304 10536 "GET /les3/user/29/0 HTTP/1.1" 200 4542
+INFO 2024-04-07 22:44:56,893 basehttp 7304 10536 "GET / HTTP/1.1" 200 2359
+INFO 2024-04-07 22:44:56,930 basehttp 7304 10536 "GET /media/telek_7SBGzjT.jpg HTTP/1.1" 304 0
+INFO 2024-04-07 22:51:20,649 autoreload 8188 20072 Watching for file changes with StatReloader
+ERROR 2024-04-07 22:51:24,474 log 8188 2904 Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app4\views.py", line 13, in all_products
+    return render(request, 'gb_app4/all_products.html', {'prods': prods})
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'les3' not found. 'les3' is not a valid view function or pattern name.
+ERROR 2024-04-07 22:51:24,490 basehttp 8188 2904 "GET / HTTP/1.1" 500 166169
+INFO 2024-04-07 22:58:47,765 autoreload 8188 20072 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app4\views.py changed, reloading.
+INFO 2024-04-07 22:58:48,428 autoreload 10228 16736 Watching for file changes with StatReloader
+INFO 2024-04-07 23:00:10,996 basehttp 10228 6636 "GET / HTTP/1.1" 200 2358
+INFO 2024-04-07 23:00:11,044 basehttp 10228 6636 "GET /media/telek_7SBGzjT.jpg HTTP/1.1" 304 0
+INFO 2024-04-07 23:00:24,333 basehttp 10228 6636 "GET /les3/ HTTP/1.1" 200 732
+INFO 2024-04-07 23:00:28,658 basehttp 10228 6636 "GET /les3/users/ HTTP/1.1" 200 5287
+INFO 2024-04-07 23:01:40,235 autoreload 7388 14356 Watching for file changes with StatReloader
+INFO 2024-04-07 23:01:42,757 basehttp 7388 19692 "GET / HTTP/1.1" 200 2397
+INFO 2024-04-07 23:02:12,112 basehttp 7388 19692 "GET / HTTP/1.1" 200 2403
+INFO 2024-04-07 23:02:12,141 basehttp 7388 19692 "GET /media/telek_7SBGzjT.jpg HTTP/1.1" 304 0
+INFO 2024-04-07 23:02:14,114 basehttp 7388 19692 "GET /les3/les4/llll HTTP/1.1" 302 0
+INFO 2024-04-07 23:02:14,502 basehttp 7388 19692 "GET /les3/users/ HTTP/1.1" 200 5287
+INFO 2024-04-07 23:03:53,128 basehttp 7388 19692 "GET / HTTP/1.1" 200 2403
+INFO 2024-04-07 23:03:55,799 basehttp 7388 19692 "GET / HTTP/1.1" 200 2492
+INFO 2024-04-07 23:03:59,022 basehttp 7388 19692 "GET /les3/les4/llll HTTP/1.1" 302 0
+INFO 2024-04-07 23:03:59,509 basehttp 7388 19692 "GET /les3/users/ HTTP/1.1" 200 5287
+INFO 2024-04-07 23:04:02,018 basehttp 7388 19692 "GET /les3/user/26/0 HTTP/1.1" 200 1890
+INFO 2024-04-07 23:04:05,510 basehttp 7388 19692 "GET /les3/ HTTP/1.1" 200 732
+INFO 2024-04-07 23:04:10,507 basehttp 7388 19692 "GET /les3/users/ HTTP/1.1" 200 5287
+INFO 2024-04-07 23:24:03,739 autoreload 6244 3936 Watching for file changes with StatReloader
+INFO 2024-04-07 23:24:07,701 basehttp 6244 7040 "GET / HTTP/1.1" 200 732
+WARNING 2024-04-07 23:24:07,887 log 6244 7040 Not Found: /favicon.ico
+WARNING 2024-04-07 23:24:07,887 basehttp 6244 7040 "GET /favicon.ico HTTP/1.1" 404 3105
+INFO 2024-04-07 23:28:01,575 autoreload 6244 3936 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\urls.py changed, reloading.
+INFO 2024-04-07 23:28:02,202 autoreload 16368 19428 Watching for file changes with StatReloader
+INFO 2024-04-07 23:28:04,233 basehttp 16368 3884 "GET / HTTP/1.1" 200 883
+INFO 2024-04-07 23:28:08,036 basehttp 16368 3884 "GET /les3/les4/all_products HTTP/1.1" 200 2443
+INFO 2024-04-07 23:28:08,071 basehttp 16368 3884 "GET /media/telek_7SBGzjT.jpg HTTP/1.1" 304 0
+INFO 2024-04-07 23:28:11,107 basehttp 16368 3884 "GET /les3/les4/ HTTP/1.1" 200 883
+INFO 2024-04-07 23:28:12,293 basehttp 16368 3884 "GET /les3/les4/redir_us HTTP/1.1" 302 0
+INFO 2024-04-07 23:28:12,782 basehttp 16368 3884 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:28:17,124 basehttp 16368 3884 "GET /les3/les4/ HTTP/1.1" 200 883
+INFO 2024-04-07 23:28:19,575 basehttp 16368 3884 "GET /les3/les4/redir_us HTTP/1.1" 302 0
+INFO 2024-04-07 23:28:19,960 basehttp 16368 3884 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:29:25,461 autoreload 16368 19428 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\urls.py changed, reloading.
+INFO 2024-04-07 23:29:26,172 autoreload 10348 16780 Watching for file changes with StatReloader
+INFO 2024-04-07 23:29:33,245 basehttp 10348 20088 "GET / HTTP/1.1" 200 883
+INFO 2024-04-07 23:29:35,658 basehttp 10348 20088 "GET /les3/les4/all_products HTTP/1.1" 200 2443
+INFO 2024-04-07 23:29:40,114 basehttp 10348 20088 "GET /les3/les4/add_prod_picture/4/ HTTP/1.1" 200 1368
+INFO 2024-04-07 23:30:06,025 basehttp 10348 20088 "POST /les3/les4/add_prod_picture/4/ HTTP/1.1" 200 1459
+INFO 2024-04-07 23:30:06,086 basehttp 10348 20088 "GET /media/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-02-12%20180121.png HTTP/1.1" 200 55807
+INFO 2024-04-07 23:30:09,363 basehttp 10348 20088 "GET /les3/les4/all_products HTTP/1.1" 200 2534
+INFO 2024-04-07 23:30:09,394 basehttp 10348 20088 "GET /media/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-02-12%20180121.png HTTP/1.1" 304 0
+INFO 2024-04-07 23:30:14,633 basehttp 10348 20088 "GET /les3/les4/ HTTP/1.1" 200 883
+INFO 2024-04-07 23:30:16,401 basehttp 10348 20088 "GET /les3/les4/redir_us HTTP/1.1" 302 0
+INFO 2024-04-07 23:30:16,931 basehttp 10348 20088 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:30:19,319 basehttp 10348 20088 "GET /les3/user/28/0 HTTP/1.1" 200 3894
+INFO 2024-04-07 23:30:21,264 basehttp 10348 20088 "GET /les3/user/28/7 HTTP/1.1" 200 2652
+INFO 2024-04-07 23:30:23,762 basehttp 10348 20088 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:30:25,514 basehttp 10348 20088 "GET /les3/les4/ HTTP/1.1" 200 883
+INFO 2024-04-07 23:30:49,854 basehttp 10348 20088 "GET /les3/les4/ HTTP/1.1" 200 891
+INFO 2024-04-07 23:30:51,750 basehttp 10348 20088 "GET /les3/les4/ HTTP/1.1" 200 891
+INFO 2024-04-07 23:31:02,137 basehttp 10348 20088 "GET /les3/les4/ HTTP/1.1" 200 895
+INFO 2024-04-07 23:31:16,013 basehttp 10348 20088 "GET /les3/les4/ HTTP/1.1" 200 862
+INFO 2024-04-07 23:31:22,761 basehttp 10348 20088 "GET /les3/les4/ HTTP/1.1" 200 858
+INFO 2024-04-07 23:31:41,298 basehttp 10348 20088 "GET /les3/les4/redir_us HTTP/1.1" 302 0
+INFO 2024-04-07 23:31:41,689 basehttp 10348 20088 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:31:44,157 basehttp 10348 20088 "GET /les3/les4/ HTTP/1.1" 200 858
+INFO 2024-04-07 23:32:08,638 basehttp 10348 20088 "GET /les3/les4/ HTTP/1.1" 200 851
+INFO 2024-04-07 23:32:10,988 basehttp 10348 20088 "GET /les3/les4/all_products HTTP/1.1" 200 2534
+INFO 2024-04-07 23:32:11,034 basehttp 10348 20088 "GET /media/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-02-12%20180121.png HTTP/1.1" 304 0
+INFO 2024-04-07 23:32:12,694 basehttp 10348 20088 "GET /les3/les4/ HTTP/1.1" 200 851
+INFO 2024-04-07 23:32:14,414 basehttp 10348 20088 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:32:16,991 basehttp 10348 20088 "GET /les3/user/28/0 HTTP/1.1" 200 3894
+INFO 2024-04-07 23:32:40,356 autoreload 10348 16780 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app4\views.py changed, reloading.
+INFO 2024-04-07 23:32:43,794 autoreload 8096 2716 Watching for file changes with StatReloader
+INFO 2024-04-07 23:32:47,212 basehttp 8096 19584 "GET / HTTP/1.1" 200 851
+INFO 2024-04-07 23:32:52,527 basehttp 8096 19584 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:33:00,627 basehttp 8096 19584 "GET /les3/user/28/0 HTTP/1.1" 200 3894
+INFO 2024-04-07 23:33:02,763 basehttp 8096 19584 "GET /les3/user/28/7 HTTP/1.1" 200 2652
+INFO 2024-04-07 23:33:05,757 basehttp 8096 19584 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:33:08,021 basehttp 8096 19584 "GET /les3/user/29/0 HTTP/1.1" 200 4542
+INFO 2024-04-07 23:33:10,693 basehttp 8096 19584 "GET /les3/user/29/7 HTTP/1.1" 200 2600
+INFO 2024-04-07 23:33:12,636 basehttp 8096 19584 "GET /les3/user/29/365 HTTP/1.1" 200 4011
+INFO 2024-04-07 23:33:14,691 basehttp 8096 19584 "GET /les3/user/29/30 HTTP/1.1" 200 3131
+INFO 2024-04-07 23:33:16,527 basehttp 8096 19584 "GET /les3/user/29/7 HTTP/1.1" 200 2600
+INFO 2024-04-07 23:33:18,378 basehttp 8096 19584 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:33:21,177 basehttp 8096 19584 "GET /les3/les4/ HTTP/1.1" 200 851
+INFO 2024-04-07 23:33:23,082 basehttp 8096 19584 "GET /les3/les4/all_products HTTP/1.1" 200 2534
+INFO 2024-04-07 23:33:23,110 basehttp 8096 19584 "GET /media/telek_7SBGzjT.jpg HTTP/1.1" 304 0
+INFO 2024-04-07 23:33:23,110 basehttp 8096 16956 "GET /media/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-02-12%20180121.png HTTP/1.1" 304 0
+INFO 2024-04-07 23:33:25,333 basehttp 8096 16956 "GET /les3/les4/add_prod_picture/5/ HTTP/1.1" 200 1254
+INFO 2024-04-07 23:33:28,496 basehttp 8096 16956 "GET /les3/les4/all_products HTTP/1.1" 200 2534
+INFO 2024-04-07 23:33:29,861 basehttp 8096 16956 "GET /les3/les4/add_prod_picture/2/ HTTP/1.1" 200 1376
+INFO 2024-04-07 23:33:34,064 basehttp 8096 16956 "GET /les3/les4/all_products HTTP/1.1" 200 2534
+INFO 2024-04-07 23:33:36,642 basehttp 8096 16956 "GET /les3/les4/ HTTP/1.1" 200 851
+INFO 2024-04-07 23:34:57,406 autoreload 8096 2716 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app4\views.py changed, reloading.
+INFO 2024-04-07 23:34:58,067 autoreload 8156 3456 Watching for file changes with StatReloader
+INFO 2024-04-07 23:35:00,162 basehttp 8156 7184 "GET / HTTP/1.1" 200 851
+INFO 2024-04-07 23:35:02,003 basehttp 8156 7184 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:35:04,651 basehttp 8156 7184 "GET /les3/user/28/0 HTTP/1.1" 200 3894
+INFO 2024-04-07 23:35:07,469 basehttp 8156 7184 "GET /les3/user/28/30 HTTP/1.1" 200 2653
+INFO 2024-04-07 23:35:09,277 basehttp 8156 7184 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:35:11,422 basehttp 8156 7184 "GET /les3/les4/ HTTP/1.1" 200 851
+INFO 2024-04-07 23:35:13,912 basehttp 8156 7184 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:35:15,645 basehttp 8156 7184 "GET /les3/les4/ HTTP/1.1" 200 851
+INFO 2024-04-07 23:35:17,588 basehttp 8156 7184 "GET /les3/les4/all_products HTTP/1.1" 200 2534
+INFO 2024-04-07 23:35:17,619 basehttp 8156 7184 "GET /media/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-02-12%20180121.png HTTP/1.1" 304 0
+INFO 2024-04-07 23:35:22,176 basehttp 8156 7184 "GET /les3/les4/ HTTP/1.1" 200 851
+INFO 2024-04-07 23:38:39,587 autoreload 17360 17624 Watching for file changes with StatReloader
+INFO 2024-04-07 23:38:41,569 basehttp 17360 5716 "GET / HTTP/1.1" 200 848
+INFO 2024-04-07 23:38:50,336 basehttp 17360 5716 "GET /les3/users/ HTTP/1.1" 200 5292
+ERROR 2024-04-07 23:38:54,147 log 17360 5716 Internal Server Error: /les3/user/28/0
+Traceback (most recent call last):
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\views.py", line 19, in user_products
+    return render(request, 'gb_app3/products_list.html', {'orders': orders, 'user': user, 'days': str_d})
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'users' not found. 'users' is not a valid view function or pattern name.
+ERROR 2024-04-07 23:38:54,151 basehttp 17360 5716 "GET /les3/user/28/0 HTTP/1.1" 500 177941
+INFO 2024-04-07 23:39:29,591 basehttp 17360 5716 "GET /les3/user/28/0 HTTP/1.1" 200 3894
+INFO 2024-04-07 23:39:33,011 basehttp 17360 5716 "GET /les3/user/28/30 HTTP/1.1" 200 2653
+INFO 2024-04-07 23:39:34,741 basehttp 17360 5716 "GET /les3/user/28/0 HTTP/1.1" 200 3894
+INFO 2024-04-07 23:39:36,653 basehttp 17360 5716 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:39:42,684 basehttp 17360 5716 "GET /les3/les4/ HTTP/1.1" 200 848
+INFO 2024-04-07 23:39:45,528 basehttp 17360 5716 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:39:48,719 basehttp 17360 5716 "GET /les3/user/29/0 HTTP/1.1" 200 4542
+INFO 2024-04-07 23:39:50,492 basehttp 17360 5716 "GET /les3/user/29/7 HTTP/1.1" 200 2600
+INFO 2024-04-07 23:39:52,237 basehttp 17360 5716 "GET /les3/users/ HTTP/1.1" 200 5292
+INFO 2024-04-07 23:39:53,926 basehttp 17360 5716 "GET /les3/les4/ HTTP/1.1" 200 848
+INFO 2024-04-07 23:39:55,370 basehttp 17360 5716 "GET /les3/les4/all_products HTTP/1.1" 200 2534
+INFO 2024-04-07 23:39:55,401 basehttp 17360 5716 "GET /media/telek_7SBGzjT.jpg HTTP/1.1" 304 0
+INFO 2024-04-07 23:39:55,401 basehttp 17360 16428 "GET /media/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-02-12%20180121.png HTTP/1.1" 304 0
+INFO 2024-04-07 23:39:57,807 basehttp 17360 16428 "GET /les3/les4/add_prod_picture/3/ HTTP/1.1" 200 1366
+INFO 2024-04-07 23:40:00,054 basehttp 17360 16428 "GET /les3/les4/all_products HTTP/1.1" 200 2534
+INFO 2024-04-07 23:40:01,273 basehttp 17360 16428 "GET /les3/les4/ HTTP/1.1" 200 848
+INFO 2024-04-07 23:40:57,140 autoreload 17360 17624 C:\Users\vovar\PycharmProjects\Django\GB_Django_HW\myproject\gb_app3\urls.py changed, reloading.

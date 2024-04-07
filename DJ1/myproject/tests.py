@@ -54,3 +54,5 @@ print(l)
 
 dic = {1: "one", 2: "two", 3: "three"}
 print(dic.get(4))
+
+print(random.sample(['01.06.22', '07.03.24', '01.04.24'], 1))

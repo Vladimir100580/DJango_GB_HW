@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from .models import Product
 from django.core.files.storage import FileSystemStorage
 from .forms import ImageForm
@@ -27,3 +27,4 @@ def add_prod_picture(request, prod_id):
     else:
         form = ImageForm()
     return render(request, 'gb_app4/add_prod_picture.html', {'pr': prod, 'form': form})
+

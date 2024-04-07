@@ -13,14 +13,14 @@ class Command(BaseCommand):
 
     def handle(self, *args, **kwargs):
         count = kwargs.get('count')  # продуктов в два раза больше чем пользователей
-        for i in range(1, 2 * count + 1):
-            prod = Product(name=f'P{i}_{generate_rnd_st(5, 7)}',
-                           description=f'{generate_rnd_st(50, 70)}',
-                           price=randint(5, 600000) / 100,
-                           quantity=randint(200, 500),
-                           date_added=generate_rnd_date('01.01.10', '29.03.20'),
-                           )
-            prod.save()
+        # for i in range(1, 2 * count + 1):
+        #     prod = Product(name=f'P{i}_{generate_rnd_st(5, 7)}',
+        #                    description=f'{generate_rnd_st(50, 70)}',
+        #                    price=randint(5, 600000) / 100,
+        #                    quantity=randint(200, 500),
+        #                    date_added=generate_rnd_date('01.01.10', '29.03.20'),
+        #                    )
+        #     prod.save()
         for i in range(1, count + 1):
             user = User(name=f'U{i}_{generate_rnd_st(6, 9)}',
                         email=f'{generate_rnd_st(5, 12).lower()}@mail.ru',
@@ -31,10 +31,10 @@ class Command(BaseCommand):
                         )
             user.save()
             l_contr = []  # Список контроля за повторениями (т.к. товар в заказах не должен повторяться, по условию)
-            for j in range(1, randint(1, 4)):  # Каждый клиент имеет от 0 до 3 заказов
+            for j in range(1, randint(2, 7)):  # Каждый клиент имеет от 0 до 3 заказов
                 ll = []
                 for _ in range(randint(1, 5)):  # Количество товаров в каждом заказе от 1 до 5. (к примеру)
-                    l = randint(1, 2 * count)
+                    l = randint(1, 6 * count)
                     while l in ll or l in l_contr:   # Возможно зацикливание, следим за величиной count
                         l = randint(1, 2 * count)
                     ll.append(l)
@@ -44,7 +44,8 @@ class Command(BaseCommand):
                     s += Product.objects.filter(pk=l).first().price  # сумма всего заказа
                 order = Order(customer=user,  # Здесь обязателен экземпляр User (id(int) - не прокатит)
                               total_price=s,
-                              date_ordered=generate_rnd_date('01.01.21', '31.03.24'))
+                              date_ordered=generate_rnd_date(random.sample(['01.06.22', '07.03.24', '01.04.24'], 1)[0],
+                                                             '07.04.24'))
                 order.save()  # сначала сохраняем, потом добавляем
                 order.products.set(ll)  # Ох, уж эти 'многие-ко-многим'! ... однако, здесь достаточно id-шек
 
