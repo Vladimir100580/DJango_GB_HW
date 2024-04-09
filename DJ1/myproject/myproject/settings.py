@@ -28,12 +28,18 @@ ALLOWED_HOSTS = ['192.168.56.1', '127.0.0.1']
 
 # Application definition
 
+INTERNAL_IPS = [
+'127.0.0.1',
+]
+
 INSTALLED_APPS = [
     'myapp',
     'myapp2',
     'myapp3',
     'myapp4',
     'myapp5',
+    'myapp6',
+    'debug_toolbar',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -43,6 +49,7 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
